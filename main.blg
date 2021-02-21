@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+A level-1 auxiliary file: Portada/portada.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: contents.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+A level-1 auxiliary file: Capítulo1/chap1.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+A level-1 auxiliary file: Capítulo2/chap2.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+A level-1 auxiliary file: Capítulo3/chap3.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+A level-1 auxiliary file: biblio.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apacite.bst
+Reallocating 'name_of_file' (item size: 1) to 5 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: main.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+You've used 39 entries,
+            6951 wiz_defined-function locations,
+            1555 strings with 16441 characters,
+and the built_in function-call counts, 63014 in all, are:
+= -- 8184
+> -- 486
+< -- 2300
++ -- 2226
+- -- 85
+* -- 3532
+:= -- 9986
+add.period$ -- 180
+call.type$ -- 39
+change.case$ -- 698
+chr.to.int$ -- 0
+cite$ -- 78
+duplicate$ -- 1774
+empty$ -- 3005
+format.name$ -- 697
+if$ -- 13007
+int.to.chr$ -- 0
+int.to.str$ -- 121
+missing$ -- 0
+newline$ -- 941
+num.names$ -- 338
+pop$ -- 1406
+preamble$ -- 1
+purify$ -- 164
+quote$ -- 0
+skip$ -- 4874
+stack$ -- 0
+substring$ -- 2577
+swap$ -- 1051
+text.length$ -- 112
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 3824
+warning$ -- 0
+while$ -- 270
+width$ -- 0
+write$ -- 1057
