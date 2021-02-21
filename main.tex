@@ -1,0 +1,35 @@
+\documentclass[12pt, twoside, letterpaper]{report}
+\usepackage[spanish]{babel}
+\usepackage{color}
+\usepackage{fullpage}
+\usepackage{amsmath}
+\usepackage{textcomp, amssymb}
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{apacite}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{url}
+\usepackage{setspace}
+
+\setlength{\parskip}{0.02cm}
+
+\begin{document}
+
+\include{Portada/portada}
+\pagestyle{plain}
+\include{contents}
+\pagestyle{plain}
+\begin{spacing}{1.5}
+\include{Capítulo1/chap1}
+\include{Capítulo2/chap2}
+\include{Capítulo3/chap3}
+\end{spacing}
+
+\begin{spacing}{1}
+ \include{biblio}
+\end{spacing}
+
+
+\end{document}
+
