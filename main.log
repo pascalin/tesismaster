@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.18)  21 FEB 2021 22:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.18)  21 FEB 2021 22:40
 entering extended mode
 **./main.tex
 (main.tex
@@ -396,6 +396,21 @@ teoría causal de Woodward
  []
 
 [15]
+Overfull \hbox (6.98427pt too wide) in paragraph at lines 115--116
+\T1/cmr/m/n/12 sólamente con los cambios en $\OML/cmm/m/it/12 A$ \T1/cmr/m/n/12
+ y no deberíamos poder explicar el cambio en $\OML/cmm/m/it/12 B$ \T1/cmr/m/n/1
+2 por intervención
+ []
+
+
+Overfull \hbox (865.84952pt too wide) in paragraph at lines 115--116
+\T1/cmr/m/n/12 restricciones si ocurre $\OML/cmm/m/it/12 A$\T1/cmr/m/n/12 , ent
+onces ocurre $\OML/cmm/m/it/12 B$\T1/cmr/m/n/12 )[]aAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAASDDDDDDDDDD
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [16]
@@ -404,10 +419,7 @@ Overfull \hbox (19.41737pt too wide) in paragraph at lines 121--122
 e interviniendo directamente
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17]
+[17]
 Overfull \hbox (1.60852pt too wide) in paragraph at lines 123--124
 []\T1/cmr/m/n/12 Cabe aclarar que dichas intervenciones deben ser posibles. Por
  ejemplo puedo preguntarme
@@ -425,10 +437,7 @@ Overfull \hbox (10.51225pt too wide) in paragraph at lines 145--146
 a de oraciones contrafácticas,
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [20]
+[20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
@@ -566,10 +575,10 @@ LaTeX Info: Redefining \% on input line 9.
  (contents.aux) (CapÃ­tulo1/chap1.aux)
 (CapÃ­tulo2/chap2.aux) (CapÃ­tulo3/chap3.aux) (biblio.aux)) ) 
 Here is how much of TeX's memory you used:
- 5194 strings out of 481549
- 69875 string characters out of 2916403
+ 5192 strings out of 481549
+ 69845 string characters out of 2916403
  375803 words of memory out of 3000000
- 21986 multiletter control sequences out of 15000+200000
+ 21984 multiletter control sequences out of 15000+200000
  424970 words of font info for 76 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
  68i,8n,74p,2009b,430s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -599,9 +608,9 @@ exmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/oiuhukt/.miktex/t
 exmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/oiuhukt/.miktex/te
 xmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/oiuhukt/.miktex/t
 exmfs/install/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on main.pdf (37 pages, 489067 bytes).
+Output written on main.pdf (37 pages, 489665 bytes).
 PDF statistics:
- 776 PDF objects out of 1000 (max. 8388607)
+ 774 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
