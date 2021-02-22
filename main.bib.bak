@@ -137,7 +137,7 @@
 	doi     = {10.1111/j.1533-6077.2004.00023.x},
 }
 
-@Online{Aristoteles2009,
+@Book{Aristoteles2009,
 	author = {Aristóteles},
 	editor = {Stevenson, Daniel C.},
 	title  = {Posterior Analytics, Book 1},
@@ -432,11 +432,11 @@
 }
 
 @Book{Cartwright2007,
-  author        = {Cartwright, Nancy},
-  title         = {Hunting Causes and Using Them: Approaches in Philosophy and Economics},
-  year          = {2007},
-  publisher     = {Cambridge University Press},
-  __markedentry = {[Abraham:]},
+  author    = {Cartwright, Nancy},
+  title     = {Hunting Causes and Using Them: Approaches in Philosophy and Economics},
+  publisher = {Cambridge University Press},
+  groups    = {[Abraham:]},
+  year      = {2007},
 }
 
 @Book{Hume2017,
@@ -446,15 +446,112 @@
   editor = {in the version by Jonathan Bennett presented at www.earlymoderntexts.com},
 }
 
+@InCollection{PfenningEco-Evo-Devo,
+	author       =	{Pfenning, David},
+	title        =	{{Ecological Evolutionary Developmental Biology}},
+	booktitle    =	{Encyclopedia of Evolutionary Biology},
+	editor       =	{Richard Kliman},
+	year         =	{2016},
+	publisher    =	{Elsevier}
+}
+
+@Article{Frankino2007,
+  author    = {Frankino, W. Anthony and Zwaan, Bas J. and Stern, David L. and Brakefield, Paul M.},
+  journal   = {Evolution},
+  title     = {INTERNAL AND EXTERNAL CONSTRAINTS IN THE EVOLUTION OF MORPHOLOGICAL ALLOMETRIES IN A BUTTERFLY},
+  year      = {2007},
+  issn      = {0014-3820},
+  month     = dec,
+  number    = {12},
+  pages     = {2958--2970},
+  volume    = {61},
+  abstract  = {Much diversity in animal morphology results from variation in the relative size of morphological traits. The scaling relationships, or allometries, that describe relative trait size can vary greatly in both intercept and slope among species or other animal groups. Yet within such groups, individuals typically exhibit low variation in relative trait size. This pattern of high intra- and low intergroup variation may result from natural selection for particular allometries, from developmental constraints restricting differential growth among traits, or both. Here we explore the relative roles of short-term developmental constraints and natural selection in the evolution of the intercept of the allometry between the forewing and hindwing of a butterfly. First, despite a strong genetic correlation between these two traits, we show that artificial selection perpendicular to the forewing?hindwing scaling relationship results in rapid evolution of the allometry intercept. This demonstrates an absence of developmental constraints limiting intercept evolution for this scaling relationship. Mating experiments in a natural environment revealed strong stabilizing selection favoring males with the wild-type allometry intercept over those with derived intercepts. Our results demonstrate that evolution of this component of the forewing?hindwing allometry is not limited by developmental constraints in the short term and that natural selection on allometry intercepts can be powerful.},
+  comment   = {https://doi.org/10.1111/j.1558-5646.2007.00249.x},
+  doi       = {10.1111/j.1558-5646.2007.00249.x},
+  keywords  = {Allometry, complex phenotype, developmental constraint, genetic correlation, natural selection},
+  publisher = {John Wiley & Sons, Ltd},
+  url       = {https://doi.org/10.1111/j.1558-5646.2007.00249.x},
+}
+
+@incollection{WESTEBERHARD20082701,
+title = {Phenotypic Plasticity},
+editor = {Sven Erik Jørgensen and Brian D. Fath},
+booktitle = {Encyclopedia of Ecology},
+publisher = {Academic Press},
+address = {Oxford},
+pages = {2701-2707},
+year = {2008},
+isbn = {978-0-08-045405-4},
+url = {https://www.sciencedirect.com/science/article/pii/B9780080454054008375},
+author = {M.J. West-Eberhard},
+keywords = {Adaptive evolution, Alternative phenotypes, Assessment, Development, Developmental plasticity, Evolution of behavior, Gene–environment interaction, Gene expression, Genetic accommodation, Genetic assimilation, Homeostasis, Honeybees, Hormones and behavior, Modularity, Nature and nurture, Polyphenism, Quantitative trait loci (QTLs), Reaction norm, Threshold effects},
+abstract = {Phenotypic plasticity, the ability of an organism to change in response to stimuli from the environment, is a result of developmental plasticity, including the environmental sensitivity of behavior during the ontogeny of an individual and of the neural and hormonal mechanisms that underlie behavioral responses. Behavior is expressed as semidiscrete traits or recognizable modular units whose expression is governed by condition-sensitive neural and hormonal mechanisms that can be associated with the expression of particular genes. By tracing these mechanisms the genes subject to selection during the evolution of behavior can be identified. The evolution of behavior can involve reorganization of behavioral units, and selection on them can affect the direction of evolution of associated morphology. Organisms employ mechanisms of environmental assessment that enable behavior to be adaptively plastic, that is, supportive of individual reproductive success. Since virtually all behavior is condition sensitive, ethologists and behavioral ecologists are leaders in analyses of developmental plasticity, and the documentation of adaptive phenotypic modularity, sensory mechanisms of environmental assessment, and switch-controlled conditional alternative phenotypes such as polyphenisms.}
+}
+
+@article{CVG,
+title = "Cryptic genetic variation: Evolution's hidden substrate",
+abstract = "Cryptic genetic variation (CGV) is invisible under normal conditions, but it can fuel evolution when circumstances change. In theory, CGV can represent a massive cache of adaptive potential or a pool of deleterious alleles that are in need of constant suppression. CGV emerges from both neutral and selective processes, and it may inform about how human populations respond to change. CGV facilitates adaptation in experimental settings, but does it have an important role in the real world? Here, we review the empirical support for widespread CGV in natural populations, including its potential role in emerging human diseases and the growing evidence of its contribution to evolution.",
+author = "Paaby, {Annalise B.} and Rockman, {Matthew V.}",
+year = "2014",
+language = "English (US)",
+volume = "15",
+pages = "247--258",
+journal = "Nature Reviews Genetics",
+issn = "1471-0056",
+publisher = "Nature Publishing Group",
+number = "4",
+}
+
 @Article{Lewis1973a,
-  author        = {Lewis, David},
-  title         = {Causation},
-  journal       = {Journal of Philosophy},
-  year          = {1973},
-  volume        = {70},
-  number        = {17},
-  __markedentry = {[Abraham:6]},
-  publisher     = {Oxford Up},
+  author    = {Lewis, David},
+  title     = {Causation},
+  number    = {17},
+  volume    = {70},
+  groups    = {Abraham:6},
+  journal   = {Journal of Philosophy},
+  publisher = {Oxford Up},
+  year      = {1973},
+}
+
+@Article{Scriven1959,
+  author   = {Scriven, Michael},
+  journal  = {Science},
+  title    = {Explanation and Prediction in Evolutionary Theory},
+  year     = {1959},
+  month    = aug,
+  number   = {3374},
+  pages    = {477},
+  volume   = {130},
+  abstract = {300 Multiple ChoicesThis is a pdf-only article and there is no markup to show you.full-text.pdf},
+  doi      = {10.1126/science.130.3374.477},
+  url      = {http://science.sciencemag.org/content/130/3374/477.abstract},
+}
+
+@misc{pittphilsci18628,
+title = {Causation and Mechanisms in Biology},
+author = {James Woodward},
+year = {2021},
+keywords = {causation, mechanism, causal process,  modularity, genetic redundancy},
+url = {http://philsci-archive.pitt.edu/18628/},
+abstract = {This paper was written around 2014 for a forthcoming volume of Minnesota Studies in the Philosophy of Science. Since publication of that volume has been long delayed, I am posting this paper on the Philsci Archive. The paper discusses a number of issues having to do with mechanistic explanation in biology. It argues that, as an empirical matter, there is often a kind of correspondence between difference making information and information about spatio-temporal or geometrical relations of a sort emphasized in causal process theories of causation. The paper also discusses modularity conditions and the circumstances under which they fail. Failures of modularity are distinguished from cases involving redundancy and causal cycles.}
+}
+
+@article{AusinEnviro,
+author = {Ausin, Israel and Alonso-Blanco, Carlos and Martínez-Zapater, José-Miguel},
+year = {2005},
+month = {02},
+pages = {689-705},
+title = {Environmental regulation of flowering},
+volume = {49},
+journal = {The International journal of developmental biology},
+doi = {10.1387/ijdb.052022ia}
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
+
+@Comment{jabref-meta: grouping:
+0 AllEntriesGroup:;
+1 StaticGroup:Marcados\;2\;1\;\;\;\;;
+2 StaticGroup:Abraham:6\;2\;1\;\;\;\;;
+2 StaticGroup:[Abraham:]\;2\;1\;\;\;\;;
+}
