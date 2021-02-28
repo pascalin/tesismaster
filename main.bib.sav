@@ -580,6 +580,38 @@ doi = {10.1387/ijdb.052022ia}
   publisher = {University of Chicago Press},
 }
 
+@Book{Euclid2008,
+  author    = {Euclid},
+  date      = {2008},
+  title     = {The elements},
+  editor    = {Richard Fitzpatrick},
+  isbn      = {9780615179841},
+  pagetotal = {548},
+  publisher = {Richard Fitzpatrick},
+  url       = {https://www.ebook.de/de/product/7216845/richard_fitzpatrick_euclid_s_elements.html},
+  ean       = {9780615179841},
+  year      = {2007},
+}
+
+@Book{Torrente2000,
+  author    = {Mario Gómez Torrente},
+  date      = {2000},
+  title     = {Forma y Modalidad: una introducción al concepto de consecuencia lógica.},
+  isbn      = {950231087X},
+  publisher = {Eudeba},
+  address   = {Buenos Aires},
+  year      = {2000},
+}
+
+@InCollection{Tarski1956,
+  author    = {Alfred Tarski},
+  booktitle = {Logic, Semantics, Metamathemathics},
+  date      = {1956},
+  title     = {On the concept of logical consequence},
+  publisher = {Oxford University Press},
+  subtitle  = {Papers from 1923 to 1938},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
