@@ -1,7 +1,6 @@
-\documentclass[12pt, twoside, letterpaper]{report}
+\documentclass[12pt, twoside]{report}
 \usepackage[spanish]{babel}
 \usepackage{color}
-\usepackage{fullpage}
 \usepackage{amsmath}
 \usepackage{textcomp, amssymb}
 \usepackage{graphicx}
@@ -11,6 +10,10 @@
 \usepackage[dvipsnames]{xcolor}
 \usepackage{url}
 \usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage{geometry}
+\geometry{letterpaper, margin=1in}
+
 
 \setlength{\parskip}{0.02cm}
 
@@ -19,7 +22,10 @@
 \include{Portada/portada}
 \pagestyle{plain}
 \include{contents}
-\pagestyle{plain}
+
+\fancyhead[LE,RO]{}
+
+\pagestyle{fancy}
 \begin{spacing}{1.5}
 \include{Capítulo1/chap1}
 \include{Capítulo2/chap2}
@@ -32,4 +38,3 @@
 
 
 \end{document}
-

@@ -610,6 +610,17 @@ doi = {10.1387/ijdb.052022ia}
   title     = {On the concept of logical consequence},
   publisher = {Oxford University Press},
   subtitle  = {Papers from 1923 to 1938},
+  year      = {1956},
+}
+
+@BookInBook{Archimedes1897,
+  author    = {Archimedes},
+  booktitle = {The works of Archimedes},
+  date      = {1897},
+  title     = {On the equilibrium of planes book I},
+  editor    = {Thomas Heath},
+  publisher = {Cambridge University Peess},
+  year      = {1897},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
