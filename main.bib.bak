@@ -731,4 +731,11 @@ doi = {10.1387/ijdb.052022ia}
   __markedentry = {[Oiuhukt:6]},
 }
 
+@InCollection{Sultan2020,
+  author    = {Sonia Sultan},
+  title     = {Genotype-Enviroment Interaction and the Unscripted Reaction Norm},
+  booktitle = {Evolutionary CAusation},
+  year      = {2020},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
