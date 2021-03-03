@@ -623,11 +623,112 @@ doi = {10.1387/ijdb.052022ia}
   year      = {1897},
 }
 
-@Comment{jabref-meta: databaseType:biblatex;}
-
-@Comment{jabref-meta: grouping:
-0 AllEntriesGroup:;
-1 StaticGroup:Marcados\;2\;1\;\;\;\;;
-2 StaticGroup:Abraham:6\;2\;1\;\;\;\;;
-2 StaticGroup:[Abraham:]\;2\;1\;\;\;\;;
+@Article{Mayr1961,
+  author        = {Mayr, Ernst},
+  title         = {Cause and Effect in Biology},
+  journal       = {Science},
+  year          = {1961},
+  volume        = {134},
+  number        = {3489},
+  month         = nov,
+  pages         = {1501},
+  doi           = {10.1126/science.134.3489.1501},
+  url           = {http://science.sciencemag.org/content/134/3489/1501.abstract},
+  __markedentry = {[Oiuhukt:6]},
 }
+
+@InCollection{Dayan2020,
+  author        = {Dayan, David and Graham, Melissa and Baker, John and Foster, Susan},
+  title         = {Incorporating the enviromentally sensitive phenotype into evolving thinking},
+  booktitle     = {Evolutionary Causation},
+  year          = {2020},
+  publisher     = {MIT Press},
+  __markedentry = {[Oiuhukt:6]},
+}
+
+@Article{Laland2011,
+  author        = {Laland, Kevin N. and Sterelny, Kim and Odling-Smee, John and Hoppitt, William and Uller, Tobias},
+  title         = {Cause and Effect in Biology Revisited: Is Mayr{\textquoteright}s Proximate-Ultimate Dichotomy Still Useful?},
+  journal       = {Science},
+  year          = {2011},
+  volume        = {334},
+  number        = {6062},
+  pages         = {1512--1516},
+  issn          = {0036-8075},
+  doi           = {10.1126/science.1210879},
+  eprint        = {https://science.sciencemag.org/content/334/6062/1512.full.pdf},
+  url           = {https://science.sciencemag.org/content/334/6062/1512},
+  __markedentry = {[Oiuhukt:6]},
+  abstract      = {Fifty years ago, Ernst Mayr published a hugely influential paper on the nature of causation in biology, in which he distinguished between proximate and ultimate causes. Mayr equated proximate causation with immediate factors (for example, physiology) and ultimate causation with evolutionary explanations (for example, natural selection). He argued that proximate and ultimate causes addressed different questions and were not alternatives. Mayr{\textquoteright}s account of causation remains widely accepted today, with both positive and negative ramifications. Several current debates in biology (for example, over evolution and development, niche construction, cooperation, and the evolution of language) are linked by a common axis of acceptance/rejection of Mayr{\textquoteright}s model of causation. We argue that Mayr{\textquoteright}s formulation has acted to stabilize the dominant evolutionary paradigm against change but may now hamper progress in the biological sciences.},
+  publisher     = {American Association for the Advancement of Science},
+}
+
+@Book{Uller2020,
+  author        = {Tobias Uller and Kevin Laland},
+  title         = {Evolutionary Causation: Biological and Philosophical Reflections},
+  year          = {2020},
+  __markedentry = {[Oiuhukt:6]},
+}
+
+@Article{Brandon1997,
+  author        = {Robert N. Brandon},
+  title         = {Does Biology Have Laws? The Experimental Evidence},
+  journal       = {Philosophy of Science},
+  year          = {1997},
+  volume        = {64},
+  number        = {4},
+  pages         = {457},
+  doi           = {10.1086/392621},
+  __markedentry = {[Oiuhukt:6]},
+  publisher     = {The University of Chicago Press on Behalf of the Philosophy of Science Association},
+}
+
+@Article{Rosenberg1983,
+  author        = {Alexander Rosenberg},
+  title         = {Fitness},
+  journal       = {Journal of Philosophy},
+  year          = {1983},
+  volume        = {80},
+  number        = {8},
+  pages         = {457--473},
+  doi           = {10.2307/2026163},
+  __markedentry = {[Oiuhukt:6]},
+  publisher     = {Journal of Philosophy Inc},
+}
+
+@InBook{Sober2001,
+  author        = {Sober, Elliot},
+  title         = {The two faces of fitness},
+  booktitle     = {Thinking about Evolution: Historical, Philosophical, and Political Perspectives},
+  year          = {2001},
+  editor        = {Singh, R.S. and Krimbas, C.B. and Shankar, R. and Lewontin, R.C. and Paul, D.B. and Beatty, J.},
+  series        = {Thinking about Evolution: Historical, Philosophical, and Political Perspectives},
+  number        = {v. 2},
+  publisher     = {Cambridge University Press},
+  isbn          = {9780521620703},
+  __markedentry = {[Oiuhukt:6]},
+  lccn          = {00037822},
+}
+
+@Article{Bouchard2004,
+  author        = {Bouchard, Frederic and Rosenberg, Alexander},
+  title         = {Fitness, probability and the principles of natural selection},
+  journal       = {British Journal for the Philosophy of Science},
+  year          = {2004},
+  volume        = {55},
+  number        = {4},
+  __markedentry = {[Oiuhukt:6]},
+  publisher     = {Oxford University Press},
+}
+
+@Article{Millstein2006,
+  author        = {Millstein, Roberta L.},
+  title         = {Natural selection as a population-level causal process},
+  journal       = {British Journal for the Philosophy of Science},
+  year          = {2006},
+  volume        = {57},
+  number        = {4},
+  __markedentry = {[Oiuhukt:6]},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}
