@@ -1,0 +1,757 @@
+% Encoding: UTF-8
+
+@Book{Nagel2006,
+  author    = {Nagel, Ernest},
+  title     = {La Estructura de la Ciencia},
+  edition   = {1},
+  isbn      = {84-493-1870-X},
+  pages     = {791},
+  publisher = {Paid{\'{o}}s},
+  address   = {Barcelona},
+  year      = {2006},
+}
+
+@Book{Cartwright1983,
+	author    = {Nancy Cartwright},
+	publisher = {Oxford University Press},
+	title     = {How the Laws of Physics Lie},
+	year      = {1983},
+}
+
+@InCollection{Galavotti2018,
+	author       = {Galavotti, Maria Carla},
+	booktitle    = {The Stanford Encyclopedia of Philosophy},
+	publisher    = {Metaphysics Research Lab, Stanford University},
+	title        = {Wesley Salmon},
+	year         = {2018},
+	edition      = {Fall 2018},
+	editor       = {Edward N. Zalta},
+	howpublished = {\url{https://plato.stanford.edu/archives/fall2018/entries/wesley-salmon/}},
+}
+
+@InCollection{Woodward2019,
+	author       = {James Woodward},
+	booktitle    = {The Stanford Encyclopedia of Philosophy},
+	publisher    = {Metaphysics Research Lab, Stanford University},
+	title        = {Scientific Explanation},
+	year         = {2019},
+	edition      = {Winter 2019},
+	editor       = {Edward N. Zalta},
+	howpublished = {\url{https://plato.stanford.edu/archives/win2019/entries/scientific-explanation/}},
+}
+
+@Article{Woodward2000,
+	author    = {James Woodward},
+	journal   = {British Journal for the Philosophy of Science},
+	title     = {Explanation and Invariance in the Special Sciences},
+	year      = {2000},
+	number    = {2},
+	pages     = {197--254},
+	volume    = {51},
+	doi       = {10.1093/bjps/51.2.197},
+	publisher = {Oxford University Press},
+}
+
+@Book{Psillos2009,
+	author    = {Psillos, Stathis},
+	publisher = {Acumen Publishing},
+	title     = {Causation and Explanation},
+	year      = {2009},
+	edition   = {1},
+	location  = {Stocksfield},
+	pagetotal = {324},
+}
+
+@InBook{Goodman1983,
+	author    = {Goodman, Nelson},
+	chapter   = {III},
+	pages     = {59-81},
+	title     = {The New Riddle of Induction},
+	year      = {1983},
+	edition   = {4},
+	booktitle = {Fact, Fiction and Forecast},
+}
+
+@Book{Elgin2017,
+	author    = {Catherine Elgin},
+	publisher = {Cambridge: MIT Press},
+	title     = {True Enough},
+	year      = {2017},
+}
+
+@Article{Papineau2019a,
+	author   = {Papineau, David},
+	journal  = {Synthese},
+	title    = {The disvalue of knowledge},
+	year     = {2019},
+	issn     = {1573-0964},
+	month    = {Oct},
+	abstract = {I argue that the concept of knowledge is a relic of a bygone age, erroneously supposed to do no harm. I illustrate this claim by showing how a concern with knowledge distorts the use of statistical evidence in criminal courts, and then generalize the point to show that this concern hampers our enterprises across the board and not only in legal contexts.},
+	day      = {04},
+	doi      = {10.1007/s11229-019-02405-4},
+	url      = {https://doi.org/10.1007/s11229-019-02405-4},
+}
+
+@InBook{Kitcher2002,
+  author    = {Phillip Kitcher},
+  booktitle = {Philosophy of Science: Contemporary Readings},
+  title     = {Explanatory Unification and the Causal Structure of the World},
+  editor    = {Yuri Balashov; Alex Rosenberg},
+  location  = {London},
+  pages     = {71-91},
+  publisher = {Routledge},
+  year      = {2002},
+}
+
+@Article{Stolberg2006,
+	author       = {M Stolberg},
+	title        = {Inventing the randomized double-blind trial: theNuremberg salt test of 1835},
+	year         = {2006},
+	month        = {December},
+	pages        = {642-643},
+	volume       = {99},
+	journaltitle = {JOURNAL OF THE ROYAL SOCIETY OF MEDICINE},
+}
+
+@Article{Harman1965,
+	author    = {Gilbert H. Harman},
+	journal   = {The Philosophical Review},
+	title     = {The Inference to the Best Explanation},
+	year      = {1965},
+	issn      = {00318108, 15581470},
+	number    = {1},
+	pages     = {88--95},
+	volume    = {74},
+	publisher = {[Duke University Press, Philosophical Review]},
+	url       = {http://www.jstor.org/stable/2183532},
+}
+
+@Article{Elgin2004,
+	author  = {Catherine Elgin},
+	journal = {Philosophical Issues},
+	title   = {True Enough},
+	year    = {2004},
+	number  = {1},
+	pages   = {113--131},
+	volume  = {14},
+	doi     = {10.1111/j.1533-6077.2004.00023.x},
+}
+
+@Book{Aristoteles2009,
+	author = {Aristóteles},
+	editor = {Stevenson, Daniel C.},
+	title  = {Posterior Analytics, Book 1},
+	url    = {http://classics.mit.edu/Aristotle/posterior.1.i.html},
+	year   = {2009},
+}
+
+@InBook{galtre,
+	author     = {Galileo},
+	editor     = {Isnardi, Teófilo},
+	publisher  = {Losada},
+	title      = {Tercera Jornada},
+	year       = {2003},
+	edition    = {1},
+	isbn       = {9500392135},
+	booktitle  = {Diálogos acerca de dos nuevas ciencias},
+	location   = {Buenos Aires},
+	translator = {San Román Villasante, José},
+}
+
+@Book{Heath2015,
+	author    = {Heath, T.},
+	publisher = {Taylor \& Francis},
+	title     = {Mathematics in Aristotle},
+	year      = {2015},
+	isbn      = {9781317380603},
+	series    = {Routledge Library Editions: Aristotle},
+}
+
+@Book{Euclides1956,
+	author       = {Euclides},
+	editor       = {Thomas L. Heath},
+	publisher    = {Dover Publications},
+	title        = {Book V},
+	year         = {1956},
+	edition      = {1},
+	booktitle    = {The Thirteen books of Euclid's Elements},
+	language     = {English},
+	location     = {New York},
+	origlanguage = {Greek},
+	translator   = {Thomas L. Heath},
+}
+
+@Online{Arisoteles2009,
+	author = {Arisóteles},
+	editor = {Stevenson, Daniel C.},
+	title  = {Metaphysics, Book 11, part 4},
+	url    = {http://classics.mit.edu/Aristotle/metaphysics.11.xi.html},
+	year   = {2009},
+}
+
+@InCollection{Psillos2007,
+	author    = {Stathis Psillos},
+	booktitle = {General Philosophy of Science},
+	publisher = {North Holland},
+	title     = {Past and Contemporary Perspectives on Explanation},
+	year      = {2007},
+	editor    = {Theo A. F. Kuipers},
+	pages     = {2007--97},
+}
+
+@Book{Euler1802,
+	author     = {Euler, Leonard},
+	editor     = {Hunter, Henry},
+	title      = {Letters of Euler on different subjects in Physics and Philosophy addressed to a German Princess},
+	year       = {1802},
+	translator = {Hunter, Henry},
+}
+
+@Article{Hempel1948,
+	author    = {Carl Hempel and Paul Oppenheim},
+	journal   = {Philosophy of Science},
+	title     = {Studies in the Logic of Explanation},
+	year      = {1948},
+	number    = {2},
+	pages     = {135--175},
+	volume    = {15},
+	doi       = {10.1086/286983},
+	publisher = {Association for Symbolic Logic},
+}
+
+@Book{GodfreySmith2003,
+	author    = {Peter Godfrey{-}Smith},
+	publisher = {University of Chicago Press},
+	title     = {Theory and Reality: An Introduction to the Philosophy of Science},
+	year      = {2003},
+}
+
+@InCollection{Carroll2016,
+	author       = {Carroll, John W.},
+	booktitle    = {The Stanford Encyclopedia of Philosophy},
+	publisher    = {Metaphysics Research Lab, Stanford University},
+	title        = {Laws of Nature},
+	year         = {2016},
+	edition      = {Fall 2016},
+	editor       = {Edward N. Zalta},
+	howpublished = {\url{https://plato.stanford.edu/archives/fall2016/entries/laws-of-nature/}},
+}
+
+@Book{Ney2014,
+	author    = {Alyssa Ney},
+	publisher = {Routledge},
+	title     = {Metaphysics: An Introduction},
+	year      = {2014},
+}
+
+@Book{Nagel1961,
+	author    = {Ernest Nagel},
+	publisher = {Harcourt, Brace \& World},
+	title     = {The Structure of Science: Problems in the Logic of Scientific Explanation},
+	year      = {1961},
+}
+
+
+@article{Losos2004,
+	author = {Losos, Jonathan B and Schoener, Thomas W. and Spiller, David A.},
+	title = {Predator-induced behaviour shifts and natural selection in field-experimental lizard populations},
+	journal = {Nature},
+	year = {2004},
+	volume = {432},
+	issue = {7016},
+	pages = {505-508},
+	url = {https://doi.org/10.1038/nature03039},
+
+}
+
+@book{Giere1999,
+	title = {Science Without Laws},
+	author = {Ronald N. Giere},
+	publisher = {University of Chicago Press},
+	year = {1999}
+}
+
+@InBook{lawna,
+	author    = {Antoine-Gaspard Boucher d'Argis},
+	publisher = {Michigan Publishing},
+	title     = {Law of nature, or Natural law},
+	year      = {2002},
+	booktitle = {The Encyclopedia of Diderot \& d'Alembert Collaborative Translation Project},
+	location  = {University of Michigan},
+	url       = {http://hdl.handle.net/2027/spo.did2222.0000.021},
+}
+
+@Inbook{Duhem1976,
+	author="Duhem, Pierre",
+	editor="Harding, Sandra G.",
+	title="Physical Theory and Experiment",
+	bookTitle="Can Theories be Refuted? Essays on the Duhem-Quine Thesis",
+	year="1976",
+	publisher="Springer Netherlands",
+	address="Dordrecht",
+	pages="1--40",
+	abstract="The sole purpose of physical theory is to provide a representation and classification of experimental laws; the only test permitting us to judge a physical theory and pronounce it good or bad is the comparison between the consequences of this theory and the experimental laws it has to represent and classify. Now that we have minutely analyzed the characteristics of a physical experiment and of a physical law, we can establish the principles that should govern the comparison between experiment and theory; we can tell how we shall recognize whether a theory is confirmed or weakened by facts.",
+	isbn="978-94-010-1863-0",
+	url="https://doi.org/10.1007/978-94-010-1863-0_1"
+}
+
+@Book{principia,
+	author       = {Isaac Newton},
+	editor       = {Bernard Cohen},
+	publisher    = {University of California Press},
+	title        = {The Principia: Mathematical Principles of Natural Philosophy},
+	year         = {1999},
+	isbn         = {0520088166,9780520088160},
+	editora      = {Anne Whitman},
+	editorb      = {Julia Budenz},
+	introduction = {Bernard Cohen},
+}
+
+@article{Pritchard2019,
+	abstract = {The idea that truth is the fundamental epistemic good is explained and defended. It is argued that this proposal has been prematurely rejected on grounds that are both independently problematic and which also turn on an implausible way of understanding the proposal. A more compelling account of what it means for truth to be the fundamental epistemic good is then developed, one that treats the intellectual virtues, and thereby virtuous inquiry, as the primary theoretical notion.},
+	author = {Pritchard, Duncan},
+	doi = {10.1007/s11229-019-02418-z},
+	issn = {1573-0964},
+	journal = {Synthese},
+	title = {{Intellectual virtues and the epistemic value of truth}},
+	url = {https://doi.org/10.1007/s11229-019-02418-z},
+	year = {2019}
+}
+@InCollection{Steup2020,
+  author    = {Steup, Matthias & Neta, Ram.},
+  booktitle = {The Stanford Encyclopedia of Philosophy},
+  date      = {2020},
+  title     = {Epistemology},
+  url       = {https://plato.stanford.edu/archives/fall2020/entries/epistemology/},
+}
+
+@InCollection{Salmon1970,
+  author    = {Wesley Salmon},
+  booktitle = {The Nature and Function of Scientific Theories},
+  title     = {Statistical Explanation},
+  year      = {1970},
+}
+
+@Article{Fraassen1977,
+  author    = {Bas C. Van Fraassen},
+  title     = {The Pragmatics of Explanation},
+  issn      = {00030481},
+  number    = {2},
+  pages     = {143--150},
+  url       = {http://www.jstor.org/stable/20009661},
+  volume    = {14},
+  journal   = {American Philosophical Quarterly},
+  publisher = {[North American Philosophical Publications, University of Illinois Press]},
+  year      = {1977},
+}
+
+@Book{Fraassen,
+  author    = {Bas van Fraassen},
+  title     = {The scientific image},
+  chapter   = {5},
+  publisher = {Oxford University Press},
+  year      = {1980},
+}
+
+@Article{Lange2015,
+  author   = {Lange, Marc},
+  title    = {Depth and {Explanation} in {Mathematics}†},
+  doi      = {10.1093/philmat/nku022},
+  issn     = {0031-8019},
+  number   = {2},
+  pages    = {196--214},
+  url      = {https://doi.org/10.1093/philmat/nku022},
+  urldate  = {2020-12-14TZ},
+  volume   = {23},
+  abstract = {This paper argues that in at least some cases, one proof of a given theorem is deeper than another by virtue of supplying a deeper explanation of the theorem — that is, a deeper account of why the theorem holds. There are cases of scientific depth that also involve a common abstract structure explaining a similarity between two otherwise unrelated phenomena, making their similarity no coincidence and purchasing depth by answering why questions that separate, dissimilar explanations of the two phenomena cannot correctly answer. The connections between explanation, depth, unification, power, and coincidence in mathematics and science are compared.},
+  file     = {Snapshot:https\://academic.oup.com/philmat/article-abstract/23/2/196/1463502?redirectedFrom=fulltext:text/html},
+  journal  = {Philosophia Mathematica},
+  month    = jun,
+  year     = {2015},
+}
+
+@Article{Salmon1994,
+  author       = {Wesley Salmon},
+  title        = {Causality without counterfactuals},
+  journal      = {Philosophy of Science},
+  journaltitle = {Philosophy of Science},
+  year         = {1994},
+}
+
+@Book{Lewis1973,
+  author    = {David Lewis},
+  title     = {Counterfactuals},
+  year      = {1973},
+  publisher = {Blackwell},
+}
+
+@Book{Woodward2003,
+  author    = {James Woodward},
+  title     = {Making Things Happen: A Theory of Causal Explanation},
+  year      = {2003},
+  publisher = {Oxford University Press},
+}
+
+@InBook{Woodward2018,
+  author    = {James Woodward},
+  title     = {Some Varieties of Non-Causal Explanation},
+  booktitle = {Explanation Beyond Causation: Philosophical Perspectives on Non-Causal Explanations},
+  year      = {2018},
+  editor    = {Alexander Reutlinger and Juha Saatsi},
+}
+
+@InBook{Mayr1998,
+  author    = {Ernst Mayr},
+  title     = {Causa y efecto en biología},
+  booktitle = {Historia y explicación en biología},
+  year      = {1998},
+  editor    = {Ana Barahona and Sergio MArtínez},
+  pages     = {82-95},
+}
+
+@InBook{Uller2019,
+  author    = {Tobias Uller and Kevin Laland},
+  title     = {Evolutionary Causation},
+  booktitle = {Evolutionary Causation: Biological and Philosophical Reflections},
+  year      = {2019},
+  editor    = {Tobias Uller and Kevin Laland},
+}
+
+@Book{Anjum2018,
+  author    = {Anjum, Rani Lill and Mumford, Stephen},
+  title     = {Causation in Science and the Methods of Scientific Discovery},
+  year      = {2018},
+  language  = {eng},
+  publisher = {Oxford University Press},
+  pages     = {304},
+  url       = {https://oxford.universitypressscholarship.com/10.1093/oso/9780198733669.001.0001/oso-9780198733669},
+  abstract  = {Some of the chief goals of science are understanding, explanation, prediction, and application in new technologies. Only if the world has some significant degree of constancy in what follows from what can these activities be conducted with any purpose. But what is the source of such predictability and how does it operate? This is a question that goes beyond science itself and inevitably requires a philosophical approach. It is argued in such terms that causation is the main foundation upon which the possibility of science rests. But what methods should we adopt in order to identify causes in science? The choice of methods will inevitably reflect what one takes causation to be, making an accurate account of causation an even more pressing matter. The enquiry concerns the correct norms for the empirical study of the world. This matters a lot. Some of the greatest challenges that we face will only be solved if we understand what has caused the problem and what, if anything, could then cause its alleviation.},
+  address   = {Oxford},
+  issn      = {9780198733669},
+  keywords  = {science, causation, methods, norms, philosophy, prediction},
+}
+
+@Book{Cartwright2007,
+  author    = {Cartwright, Nancy},
+  title     = {Hunting Causes and Using Them: Approaches in Philosophy and Economics},
+  publisher = {Cambridge University Press},
+  groups    = {[Abraham:]},
+  year      = {2007},
+}
+
+@Book{Hume2017,
+  author = {David Hume},
+  title  = {Enquiring Concerning Human Understanding},
+  year   = {2017},
+  editor = {in the version by Jonathan Bennett presented at www.earlymoderntexts.com},
+}
+
+@InCollection{PfenningEco-Evo-Devo,
+	author       =	{Pfenning, David},
+	title        =	{{Ecological Evolutionary Developmental Biology}},
+	booktitle    =	{Encyclopedia of Evolutionary Biology},
+	editor       =	{Richard Kliman},
+	year         =	{2016},
+	publisher    =	{Elsevier}
+}
+
+@Article{Frankino2007,
+  author    = {Frankino, W. Anthony and Zwaan, Bas J. and Stern, David L. and Brakefield, Paul M.},
+  journal   = {Evolution},
+  title     = {INTERNAL AND EXTERNAL CONSTRAINTS IN THE EVOLUTION OF MORPHOLOGICAL ALLOMETRIES IN A BUTTERFLY},
+  year      = {2007},
+  issn      = {0014-3820},
+  month     = dec,
+  number    = {12},
+  pages     = {2958--2970},
+  volume    = {61},
+  abstract  = {Much diversity in animal morphology results from variation in the relative size of morphological traits. The scaling relationships, or allometries, that describe relative trait size can vary greatly in both intercept and slope among species or other animal groups. Yet within such groups, individuals typically exhibit low variation in relative trait size. This pattern of high intra- and low intergroup variation may result from natural selection for particular allometries, from developmental constraints restricting differential growth among traits, or both. Here we explore the relative roles of short-term developmental constraints and natural selection in the evolution of the intercept of the allometry between the forewing and hindwing of a butterfly. First, despite a strong genetic correlation between these two traits, we show that artificial selection perpendicular to the forewing?hindwing scaling relationship results in rapid evolution of the allometry intercept. This demonstrates an absence of developmental constraints limiting intercept evolution for this scaling relationship. Mating experiments in a natural environment revealed strong stabilizing selection favoring males with the wild-type allometry intercept over those with derived intercepts. Our results demonstrate that evolution of this component of the forewing?hindwing allometry is not limited by developmental constraints in the short term and that natural selection on allometry intercepts can be powerful.},
+  comment   = {https://doi.org/10.1111/j.1558-5646.2007.00249.x},
+  doi       = {10.1111/j.1558-5646.2007.00249.x},
+  keywords  = {Allometry, complex phenotype, developmental constraint, genetic correlation, natural selection},
+  publisher = {John Wiley & Sons, Ltd},
+  url       = {https://doi.org/10.1111/j.1558-5646.2007.00249.x},
+}
+
+@incollection{WESTEBERHARD20082701,
+title = {Phenotypic Plasticity},
+editor = {Sven Erik Jørgensen and Brian D. Fath},
+booktitle = {Encyclopedia of Ecology},
+publisher = {Academic Press},
+address = {Oxford},
+pages = {2701-2707},
+year = {2008},
+isbn = {978-0-08-045405-4},
+url = {https://www.sciencedirect.com/science/article/pii/B9780080454054008375},
+author = {M.J. West-Eberhard},
+keywords = {Adaptive evolution, Alternative phenotypes, Assessment, Development, Developmental plasticity, Evolution of behavior, Gene–environment interaction, Gene expression, Genetic accommodation, Genetic assimilation, Homeostasis, Honeybees, Hormones and behavior, Modularity, Nature and nurture, Polyphenism, Quantitative trait loci (QTLs), Reaction norm, Threshold effects},
+abstract = {Phenotypic plasticity, the ability of an organism to change in response to stimuli from the environment, is a result of developmental plasticity, including the environmental sensitivity of behavior during the ontogeny of an individual and of the neural and hormonal mechanisms that underlie behavioral responses. Behavior is expressed as semidiscrete traits or recognizable modular units whose expression is governed by condition-sensitive neural and hormonal mechanisms that can be associated with the expression of particular genes. By tracing these mechanisms the genes subject to selection during the evolution of behavior can be identified. The evolution of behavior can involve reorganization of behavioral units, and selection on them can affect the direction of evolution of associated morphology. Organisms employ mechanisms of environmental assessment that enable behavior to be adaptively plastic, that is, supportive of individual reproductive success. Since virtually all behavior is condition sensitive, ethologists and behavioral ecologists are leaders in analyses of developmental plasticity, and the documentation of adaptive phenotypic modularity, sensory mechanisms of environmental assessment, and switch-controlled conditional alternative phenotypes such as polyphenisms.}
+}
+
+@article{CVG,
+title = "Cryptic genetic variation: Evolution's hidden substrate",
+abstract = "Cryptic genetic variation (CGV) is invisible under normal conditions, but it can fuel evolution when circumstances change. In theory, CGV can represent a massive cache of adaptive potential or a pool of deleterious alleles that are in need of constant suppression. CGV emerges from both neutral and selective processes, and it may inform about how human populations respond to change. CGV facilitates adaptation in experimental settings, but does it have an important role in the real world? Here, we review the empirical support for widespread CGV in natural populations, including its potential role in emerging human diseases and the growing evidence of its contribution to evolution.",
+author = "Paaby, {Annalise B.} and Rockman, {Matthew V.}",
+year = "2014",
+language = "English (US)",
+volume = "15",
+pages = "247--258",
+journal = "Nature Reviews Genetics",
+issn = "1471-0056",
+publisher = "Nature Publishing Group",
+number = "4",
+}
+
+@Article{Lewis1973a,
+  author    = {Lewis, David},
+  title     = {Causation},
+  number    = {17},
+  volume    = {70},
+  groups    = {Abraham:6},
+  journal   = {Journal of Philosophy},
+  publisher = {Oxford Up},
+  year      = {1973},
+}
+
+@Article{Scriven1959,
+  author   = {Scriven, Michael},
+  journal  = {Science},
+  title    = {Explanation and Prediction in Evolutionary Theory},
+  year     = {1959},
+  month    = aug,
+  number   = {3374},
+  pages    = {477},
+  volume   = {130},
+  abstract = {300 Multiple ChoicesThis is a pdf-only article and there is no markup to show you.full-text.pdf},
+  doi      = {10.1126/science.130.3374.477},
+  url      = {http://science.sciencemag.org/content/130/3374/477.abstract},
+}
+
+@misc{pittphilsci18628,
+title = {Causation and Mechanisms in Biology},
+author = {James Woodward},
+year = {2021},
+keywords = {causation, mechanism, causal process,  modularity, genetic redundancy},
+url = {http://philsci-archive.pitt.edu/18628/},
+abstract = {This paper was written around 2014 for a forthcoming volume of Minnesota Studies in the Philosophy of Science. Since publication of that volume has been long delayed, I am posting this paper on the Philsci Archive. The paper discusses a number of issues having to do with mechanistic explanation in biology. It argues that, as an empirical matter, there is often a kind of correspondence between difference making information and information about spatio-temporal or geometrical relations of a sort emphasized in causal process theories of causation. The paper also discusses modularity conditions and the circumstances under which they fail. Failures of modularity are distinguished from cases involving redundancy and causal cycles.}
+}
+
+@article{AusinEnviro,
+author = {Ausin, Israel and Alonso-Blanco, Carlos and Martínez-Zapater, José-Miguel},
+year = {2005},
+month = {02},
+pages = {689-705},
+title = {Environmental regulation of flowering},
+volume = {49},
+journal = {The International journal of developmental biology},
+doi = {10.1387/ijdb.052022ia}
+}
+
+@Book{Mumford2013,
+  author    = {Mumford, Stephen and Lill Anjum, Rani},
+  year      = {2013},
+  title     = {Causation: A Very Short Introduction},
+  publisher = {Oxford University Press},
+}
+
+@Article{Reiss2012,
+  author       = {Reiss, Julian},
+  year         = {2012},
+  journaltitle = {Journal of Economic Methodology},
+  title        = {The explanation paradox},
+  number       = {1},
+  volume       = {19},
+}
+
+@Article{Reiss2019,
+  author       = {Reiss, Julian},
+  year         = {2019},
+  journaltitle = {Synthese},
+  title        = {Against external validity},
+  number       = {8},
+  volume       = {196},
+  publisher    = {Springer Verlag},
+}
+
+@Book{Giere2006,
+  author    = {Giere, Ronald N.},
+  date      = {2006},
+  title     = {Scientific Perspectivism},
+  publisher = {University of Chicago Press},
+}
+
+@Book{Euclid2008,
+  author    = {Euclid},
+  date      = {2008},
+  title     = {The elements},
+  editor    = {Richard Fitzpatrick},
+  isbn      = {9780615179841},
+  pagetotal = {548},
+  publisher = {Richard Fitzpatrick},
+  url       = {https://www.ebook.de/de/product/7216845/richard_fitzpatrick_euclid_s_elements.html},
+  ean       = {9780615179841},
+  year      = {2007},
+}
+
+@Book{Torrente2000,
+  author    = {Mario Gómez Torrente},
+  date      = {2000},
+  title     = {Forma y Modalidad: una introducción al concepto de consecuencia lógica.},
+  isbn      = {950231087X},
+  publisher = {Eudeba},
+  address   = {Buenos Aires},
+  year      = {2000},
+}
+
+@InCollection{Tarski1956,
+  author    = {Alfred Tarski},
+  booktitle = {Logic, Semantics, Metamathemathics},
+  date      = {1956},
+  title     = {On the concept of logical consequence},
+  publisher = {Oxford University Press},
+  subtitle  = {Papers from 1923 to 1938},
+  year      = {1956},
+}
+
+@BookInBook{Archimedes1897,
+  author    = {Archimedes},
+  booktitle = {The works of Archimedes},
+  date      = {1897},
+  title     = {On the equilibrium of planes book I},
+  editor    = {Thomas Heath},
+  publisher = {Cambridge University Peess},
+  year      = {1897},
+}
+
+@Article{Mayr1961,
+  author        = {Mayr, Ernst},
+  title         = {Cause and Effect in Biology},
+  journal       = {Science},
+  year          = {1961},
+  volume        = {134},
+  number        = {3489},
+  month         = nov,
+  pages         = {1501},
+  doi           = {10.1126/science.134.3489.1501},
+  url           = {http://science.sciencemag.org/content/134/3489/1501.abstract},
+  __markedentry = {[Oiuhukt:]},
+}
+
+@InCollection{Dayan2020,
+  author        = {Dayan, David and Graham, Melissa and Baker, John and Foster, Susan},
+  title         = {Incorporating the enviromentally sensitive phenotype into evolving thinking},
+  booktitle     = {Evolutionary Causation},
+  year          = {2020},
+  publisher     = {MIT Press},
+  __markedentry = {[Oiuhukt:]},
+}
+
+@Article{Laland2011,
+  author        = {Laland, Kevin N. and Sterelny, Kim and Odling-Smee, John and Hoppitt, William and Uller, Tobias},
+  title         = {Cause and Effect in Biology Revisited: Is Mayr{\textquoteright}s Proximate-Ultimate Dichotomy Still Useful?},
+  journal       = {Science},
+  year          = {2011},
+  volume        = {334},
+  number        = {6062},
+  pages         = {1512--1516},
+  issn          = {0036-8075},
+  doi           = {10.1126/science.1210879},
+  eprint        = {https://science.sciencemag.org/content/334/6062/1512.full.pdf},
+  url           = {https://science.sciencemag.org/content/334/6062/1512},
+  __markedentry = {[Oiuhukt:]},
+  abstract      = {Fifty years ago, Ernst Mayr published a hugely influential paper on the nature of causation in biology, in which he distinguished between proximate and ultimate causes. Mayr equated proximate causation with immediate factors (for example, physiology) and ultimate causation with evolutionary explanations (for example, natural selection). He argued that proximate and ultimate causes addressed different questions and were not alternatives. Mayr{\textquoteright}s account of causation remains widely accepted today, with both positive and negative ramifications. Several current debates in biology (for example, over evolution and development, niche construction, cooperation, and the evolution of language) are linked by a common axis of acceptance/rejection of Mayr{\textquoteright}s model of causation. We argue that Mayr{\textquoteright}s formulation has acted to stabilize the dominant evolutionary paradigm against change but may now hamper progress in the biological sciences.},
+  publisher     = {American Association for the Advancement of Science},
+}
+
+@Book{Uller2020,
+  author        = {Tobias Uller and Kevin Laland},
+  title         = {Evolutionary Causation: Biological and Philosophical Reflections},
+  year          = {2020},
+  __markedentry = {[Oiuhukt:]},
+}
+
+@Article{Brandon1997,
+  author        = {Robert N. Brandon},
+  title         = {Does Biology Have Laws? The Experimental Evidence},
+  journal       = {Philosophy of Science},
+  year          = {1997},
+  volume        = {64},
+  number        = {4},
+  pages         = {457},
+  doi           = {10.1086/392621},
+  __markedentry = {[Oiuhukt:]},
+  publisher     = {The University of Chicago Press on Behalf of the Philosophy of Science Association},
+}
+
+@Article{Rosenberg1983,
+  author        = {Alexander Rosenberg},
+  title         = {Fitness},
+  journal       = {Journal of Philosophy},
+  year          = {1983},
+  volume        = {80},
+  number        = {8},
+  pages         = {457--473},
+  doi           = {10.2307/2026163},
+  __markedentry = {[Oiuhukt:]},
+  publisher     = {Journal of Philosophy Inc},
+}
+
+@InBook{Sober2001,
+  author        = {Sober, Elliot},
+  title         = {The two faces of fitness},
+  booktitle     = {Thinking about Evolution: Historical, Philosophical, and Political Perspectives},
+  year          = {2001},
+  editor        = {Singh, R.S. and Krimbas, C.B. and Shankar, R. and Lewontin, R.C. and Paul, D.B. and Beatty, J.},
+  series        = {Thinking about Evolution: Historical, Philosophical, and Political Perspectives},
+  number        = {v. 2},
+  publisher     = {Cambridge University Press},
+  isbn          = {9780521620703},
+  __markedentry = {[Oiuhukt:]},
+  lccn          = {00037822},
+}
+
+@Article{Bouchard2004,
+  author        = {Bouchard, Frederic and Rosenberg, Alexander},
+  title         = {Fitness, probability and the principles of natural selection},
+  journal       = {British Journal for the Philosophy of Science},
+  year          = {2004},
+  volume        = {55},
+  number        = {4},
+  __markedentry = {[Oiuhukt:]},
+  publisher     = {Oxford University Press},
+}
+
+@Article{Millstein2006,
+  author        = {Millstein, Roberta L.},
+  title         = {Natural selection as a population-level causal process},
+  journal       = {British Journal for the Philosophy of Science},
+  year          = {2006},
+  volume        = {57},
+  number        = {4},
+  __markedentry = {[Oiuhukt:]},
+}
+
+@InCollection{Sultan2020,
+  author    = {Sonia Sultan},
+  title     = {Genotype-Enviroment Interaction and the Unscripted Reaction Norm},
+  booktitle = {Evolutionary CAusation},
+  year      = {2020},
+}
+
+@Article{Amarillo-Suarez2006,
+  author        = {Amarillo-Suárez, Angela R. and Fox, Charles W.},
+  title         = {Population differences in host use by a seed-beetle: local adaptation, phenotypic plasticity and maternal effects},
+  journal       = {Oecologia},
+  year          = {2006},
+  volume        = {150},
+  number        = {2},
+  month         = nov,
+  pages         = {247--258},
+  issn          = {1432-1939},
+  url           = {https://doi.org/10.1007/s00442-006-0516-y},
+  __markedentry = {[Oiuhukt:6]},
+  abstract      = {For insects that develop inside discrete hosts, both host size and host quality constrain offspring growth, influencing the evolution of body size and life history traits. Using a two-generation common garden experiment, we quantified the contribution of maternal and rearing hosts to differences in growth and life history traits between populations of the seed-feeding beetle Stator limbatus that use a large-seeded host, Acacia greggii, and a small-seeded host, Pseudosamanea guachapele. Populations differed genetically for all traits when beetles were raised in a common garden. Contrary to expectations from the local adaptation hypothesis, beetles from all populations were larger, developed faster and had higher survivorship when reared on seeds of A. greggii (the larger host), irrespective of their native host. We observed two host plant-mediated maternal effects: offspring matured sooner, regardless of their rearing host, when their mothers were reared on P. guachapele (this was not caused by an effect of rearing host on egg size), and females laid larger eggs on P. guachapele. This is the first study to document plasticity by S. limbatus in response to P. guachapele, suggesting that plasticity is an ancestral trait in S. limbatus that likely plays an important role in diet expansion. Although differences between populations in growth and life history traits are likely adaptations to their host plants, host-associated maternal effects, partly mediated by maternal egg size plasticity, influence growth and life history traits and likely play an important role in the evolution of the breadth of S. limbatus’ diet. More generally, phenotypic plasticity mediates the fitness consequences of using novel hosts, likely facilitating colonization of new hosts, but also buffering herbivores from selection post-colonization. Plasticity in response to novel versus normal hosts varied among our study populations such that disentangling the historical role of plasticity in mediating diet evolution requires the consideration of evolutionary history.},
+  refid         = {Amarillo-Suárez2006},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}
