@@ -317,11 +317,12 @@
 	url = {https://doi.org/10.1007/s11229-019-02418-z},
 	year = {2019}
 }
+
 @InCollection{Steup2020,
-  author    = {Steup, Matthias & Neta, Ram.},
+  author    = {Steup, Matthias \& Neta, Ram.},
+  title     = {Epistemology},
   booktitle = {The Stanford Encyclopedia of Philosophy},
   year      = {2020},
-  title     = {Epistemology},
   url       = {https://plato.stanford.edu/archives/fall2020/entries/epistemology/},
 }
 
@@ -573,19 +574,19 @@ doi = {10.1387/ijdb.052022ia}
 
 @Book{Giere2006,
   author    = {Giere, Ronald N.},
-  year      = {2006},
   title     = {Scientific Perspectivism},
+  year      = {2006},
   publisher = {University of Chicago Press},
 }
 
 @Book{Euclid2008,
   author    = {Euclid},
-  year      = {2008},
   title     = {The elements},
+  year      = {2008},
   editor    = {Richard Fitzpatrick},
+  publisher = {Richard Fitzpatrick},
   isbn      = {9780615179841},
   pagetotal = {548},
-  publisher = {Richard Fitzpatrick},
   url       = {https://www.ebook.de/de/product/7216845/richard_fitzpatrick_euclid_s_elements.html},
   ean       = {9780615179841},
 }
@@ -593,28 +594,28 @@ doi = {10.1387/ijdb.052022ia}
 @Book{Torrente2000,
   author    = {Mario Gómez Torrente},
   title     = {Forma y Modalidad: una introducción al concepto de consecuencia lógica.},
-  isbn      = {950231087X},
-  publisher = {Eudeba},
-  address   = {Buenos Aires},
   year      = {2000},
+  publisher = {Eudeba},
+  isbn      = {950231087X},
+  address   = {Buenos Aires},
 }
 
 @InCollection{Tarski1956,
   author    = {Alfred Tarski},
-  booktitle = {Logic, Semantics, Metamathemathics},
   title     = {On the concept of logical consequence},
-  publisher = {Oxford University Press},
-  subtitle  = {Papers from 1923 to 1938},
+  booktitle = {Logic, Semantics, Metamathemathics},
   year      = {1956},
+  subtitle  = {Papers from 1923 to 1938},
+  publisher = {Oxford University Press},
 }
 
 @BookInBook{Archimedes1897,
   author    = {Archimedes},
-  booktitle = {The works of Archimedes},
   title     = {On the equilibrium of planes book I},
+  booktitle = {The works of Archimedes},
+  year      = {1897},
   editor    = {Thomas Heath},
   publisher = {Cambridge University Peess},
-  year      = {1897},
 }
 
 @Article{Mayr1961,
