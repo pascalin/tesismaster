@@ -787,13 +787,12 @@ We distinguish dynamical and statistical interpretations of evolutionary theory.
 }
 
 @Article{Glymour2011,
-  author        = {Glymour, Bruce},
-  title         = {Modeling Environments: Interactive Causation and Adaptations to Environmental Conditions},
-  journal       = {Philosophy of Science},
-  year          = {2011},
-  volume        = {78},
-  number        = {3},
-  __markedentry = {[Oiuhukt:]},
+  author  = {Glymour, Bruce},
+  title   = {Modeling Environments: Interactive Causation and Adaptations to Environmental Conditions},
+  journal = {Philosophy of Science},
+  year    = {2011},
+  volume  = {78},
+  number  = {3},
 }
 
 @Article{Bhogal2020,
@@ -807,10 +806,21 @@ We distinguish dynamical and statistical interpretations of evolutionary theory.
   pages         = {e12696},
   issn          = {1747-9991},
   url           = {https://doi.org/10.1111/phc3.12696},
-  __markedentry = {[Oiuhukt:6]},
+  __markedentry = {[Oiuhukt:]},
   abstract      = {Abstract Humeanism about laws of nature is, roughly, the view that the laws of nature are just patterns, or ways of describing patterns, in the mosaic of events. In this paper, I survey some of the (many!) objections that have been raised to Humeanism, considering how the Humean might respond. And I consider how we might make a positive case for Humeanism. The common thread running through all this is that the viability of the Humean view relies on the Humean having an importantly different conception of explanation to the anti-Humean.},
   comment       = {https://doi.org/10.1111/phc3.12696},
   publisher     = {John Wiley \& Sons, Ltd},
+}
+
+@InBook{French2021,
+  author        = {Steven French},
+  title         = {Modality and scientific structuralism},
+  booktitle     = {The Routledge Handbook of Modality},
+  year          = {2021},
+  editor        = {Otávio Bueno and Scott Shalkowski},
+  publisher     = {Routledge},
+  isbn          = {9781138823310},
+  __markedentry = {[Oiuhukt:6]},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
