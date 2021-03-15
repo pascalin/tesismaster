@@ -320,7 +320,7 @@
 @InCollection{Steup2020,
   author    = {Steup, Matthias & Neta, Ram.},
   booktitle = {The Stanford Encyclopedia of Philosophy},
-  date      = {2020},
+  year      = {2020},
   title     = {Epistemology},
   url       = {https://plato.stanford.edu/archives/fall2020/entries/epistemology/},
 }
@@ -573,14 +573,14 @@ doi = {10.1387/ijdb.052022ia}
 
 @Book{Giere2006,
   author    = {Giere, Ronald N.},
-  date      = {2006},
+  year      = {2006},
   title     = {Scientific Perspectivism},
   publisher = {University of Chicago Press},
 }
 
 @Book{Euclid2008,
   author    = {Euclid},
-  date      = {2008},
+  year      = {2008},
   title     = {The elements},
   editor    = {Richard Fitzpatrick},
   isbn      = {9780615179841},
@@ -588,12 +588,10 @@ doi = {10.1387/ijdb.052022ia}
   publisher = {Richard Fitzpatrick},
   url       = {https://www.ebook.de/de/product/7216845/richard_fitzpatrick_euclid_s_elements.html},
   ean       = {9780615179841},
-  year      = {2007},
 }
 
 @Book{Torrente2000,
   author    = {Mario Gómez Torrente},
-  date      = {2000},
   title     = {Forma y Modalidad: una introducción al concepto de consecuencia lógica.},
   isbn      = {950231087X},
   publisher = {Eudeba},
@@ -604,7 +602,6 @@ doi = {10.1387/ijdb.052022ia}
 @InCollection{Tarski1956,
   author    = {Alfred Tarski},
   booktitle = {Logic, Semantics, Metamathemathics},
-  date      = {1956},
   title     = {On the concept of logical consequence},
   publisher = {Oxford University Press},
   subtitle  = {Papers from 1923 to 1938},
@@ -614,7 +611,6 @@ doi = {10.1387/ijdb.052022ia}
 @BookInBook{Archimedes1897,
   author    = {Archimedes},
   booktitle = {The works of Archimedes},
-  date      = {1897},
   title     = {On the equilibrium of planes book I},
   editor    = {Thomas Heath},
   publisher = {Cambridge University Peess},
