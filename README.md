@@ -1,3 +1,5 @@
+-----------------------------
+
 # tesismaster
 
 Este es el repositorio donde guardo el código de mi tesis de maestría. Para compilar el archivo en un pdf tomé el makefile creado por alejandrogallo. Pongo sus instrucciones originales abajo. 
