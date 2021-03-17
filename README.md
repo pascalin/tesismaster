@@ -9,16 +9,6 @@ Este es el repositorio donde guardo el código de mi tesis de maestría. Para co
 ------------------------------
 
 
-
-
-### Note
-
-I'm not maintainig this project anymore.
-If you want a simpler solution check out
-[a simpler version of the same project](
-https://github.com/alejandrogallo/simple-latex-makefile
-)
-
 # The ultimate TeX Makefile #
 
 ## Installing ##
