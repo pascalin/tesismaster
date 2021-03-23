@@ -1,6 +1,6 @@
 # tesismaster
 
-Este es el repositorio donde guardo el código de mi tesis de maestría. Para compilar el archivo en un pdf tomé el makefile creado por [alejandrogallo](https://github.com/alejandrogallo/latex-makefile/releases/latest). Pongo sus instrucciones originales abajo.
+Este es el repositorio donde guardo el código de mi tesis de maestría. Para compilar el archivo en un pdf tomé el makefile creado por [alejandrogallo](https://github.com/alejandrogallo/latex-makefile/releases/latest). Pongo sus instrucciones originales abajo. También pueden ver el documento en [Papeeria](https://www.papeeria.com/join?token_id=d76b5624-5fd1-4757-a74d-47f63964aec1&retry=3)
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /> Este trabajo está bajo la licencia <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
