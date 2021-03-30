@@ -1,7 +1,8 @@
-\documentclass[12pt, twoside, letterpaper]{report}
+%El autor de este texto es Oscar Abraham Olivetti Alvarez
+
+\documentclass[12pt, twoside]{report}
 \usepackage[spanish]{babel}
 \usepackage{color}
-\usepackage{fullpage}
 \usepackage{amsmath}
 \usepackage{textcomp, amssymb}
 \usepackage{graphicx}
@@ -11,25 +12,36 @@
 \usepackage[dvipsnames]{xcolor}
 \usepackage{url}
 \usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage{geometry}
+\usepackage{comment}
+
+\geometry{letterpaper, margin=1in}
+
 
 \setlength{\parskip}{0.02cm}
 
 \begin{document}
 
 \include{Portada/portada}
+
 \pagestyle{plain}
 \include{contents}
-\pagestyle{plain}
+
+\fancyhead[LE,RO]{}
+
+\pagestyle{fancy}
 \begin{spacing}{1.5}
 \include{Capítulo1/chap1}
 \include{Capítulo2/chap2}
 \include{Capítulo3/chap3}
 \end{spacing}
 
-\begin{spacing}{1}
+\begin{spacing}{1.3}
  \include{biblio}
 \end{spacing}
 
 
 \end{document}
 
+%El autor de este texto es Oscar Abraham Olivetti Alvarez
