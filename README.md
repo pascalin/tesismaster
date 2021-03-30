@@ -65,11 +65,7 @@ variables for the project, like the verbosity `QUIET=1` and many more.
   * `VAR_NAME`(`DEFAULT`):  Brief description. If the default value is too long to appear it is
     omitted and a `see` is put in its place.  If there is no default value then
     the keyword `empty` appears.
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 6bc1117cb1d642e222cb219a4fcadc4f4154e612
   * `SH`(`bash`): Shell used
   * `SHELL`(`see`): Alias for `SHELL'
   * `PY`(`python`): Python interpreter
@@ -100,11 +96,7 @@ variables for the project, like the verbosity `QUIET=1` and many more.
   * `DEBUG`(`empty`): If the commands issued should be printed write `DEBUG=1` if you want to see all commands.
   * `TPUT`(`see`): For coloring
   * `WITH_COLOR`(`1`): If messages should have color
-<<<<<<< HEAD
   * `DBG_FILE`(`.makefile-dbg`):
-=======
-  * `DBG_FILE`(`.makefile-dbg`):
->>>>>>> 6bc1117cb1d642e222cb219a4fcadc4f4154e612
   * `COLOR_R`(`see`): Red
   * `COLOR_G`(`see`): Green
   * `COLOR_Y`(`see`): Yellow
@@ -112,15 +104,9 @@ variables for the project, like the verbosity `QUIET=1` and many more.
   * `COLOR_L`(`see`): Lila
   * `COLOR_LB`(`see`): Light blue
   * `COLOR_E`(`see`): Empty color
-<<<<<<< HEAD
   * `ARROW`(`@echo "see`):
   * `ARROW`(`@echo "===>"`):
   * `ECHO`(`@echo`):
-=======
-  * `ARROW`(`@echo "see`):
-  * `ARROW`(`@echo "===>"`):
-  * `ECHO`(`@echo`):
->>>>>>> 6bc1117cb1d642e222cb219a4fcadc4f4154e612
   * `MAIN_SRC`(`see`): Main texfile in the current directory
   * `FMT`(`pdf`): Format to build to
   * `VIEW`(`1`): If `BUILD_DOCUMENT` should be previewed after building
@@ -135,13 +121,8 @@ variables for the project, like the verbosity `QUIET=1` and many more.
   * `PACKAGES_FILES`(`see`): Which files are tex libraries
   * `DEFAULT_DEPENDENCIES`(`\`): Default dependencies for `BUILD_DOCUMENT`
   * `DEPENDENCIES`(`see`): General dependencies for `BUILD_DOCUMENT`
-<<<<<<< HEAD
   * `TOC_DEP`(`see`): These files  are to keep  track of the  dependencies for latex  or pdf includes, table of contents generation or figure recognition
   * `FIGS_DEP`(`see`):
-=======
-  * `TOC_DEP`(`see`): These files  are to keep  track of the  dependencies for latex  or pdf includes, table of contents generation or figure recognition
-  * `FIGS_DEP`(`see`):
->>>>>>> 6bc1117cb1d642e222cb219a4fcadc4f4154e612
   * `DEPS_DIR`(`.deps`): Folder to keep makefile dependencies
   * `FIGURES`(`empty`): Figures included in all texfiles
   * `BIBTEX`(`bibtex`): For converting document formats
@@ -149,24 +130,14 @@ variables for the project, like the verbosity `QUIET=1` and many more.
   * `GNUPLOT`(`gnuplot`): Gnuplot interpreter
   * `PDF_VIEWER`(`see`): Recognise pdf viewer automagically
   * `RM`(`rm`): Remove command
-<<<<<<< HEAD
   * `RM_FLAGS`(`-rf`):
-=======
-  * `RM_FLAGS`(`-rf`):
->>>>>>> 6bc1117cb1d642e222cb219a4fcadc4f4154e612
   * `CLEAN_FILES`(`see`): Files to be cleaned
   * `DIST_DIR`(`dist`): Distribution directory
   * `LATEXDIFF`(`latexdiff-git`): For creating differences in a repository
   * `DIFF`(`HEAD HEAD~1`): Commits to compute the difference from
-<<<<<<< HEAD
   * `DIFF_BUILD_DIR_MAIN`(`diffs`):
   * `DIFF_BUILD_DIR`(`see`):
   * `DIFF_SRC_NAME`(`diff.tex`):
-=======
-  * `DIFF_BUILD_DIR_MAIN`(`diffs`):
-  * `DIFF_BUILD_DIR`(`see`):
-  * `DIFF_SRC_NAME`(`diff.tex`):
->>>>>>> 6bc1117cb1d642e222cb219a4fcadc4f4154e612
   * `SPELLER`(`aspell`): Speller program to use
   * `SPELL_DIR`(`.spell`): Directory to store spelling related information
   * `SPELL_LANG`(`en`): Language for the spelling program
