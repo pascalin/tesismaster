@@ -1,5 +1,26 @@
 % Encoding: UTF-8
 
+@book{Hanson1958,
+	author = {Norwood Russell Hanson},
+	year = {1958},
+	title = {Patterns of Discovery: An Inquiry Into the Conceptual Foundations of Science},
+	publisher = {Cambridge University Press}
+}
+
+@article{Borge2019,
+  doi = {10.5007/1808-1711.2019v23n3p367},
+  url = {https://doi.org/10.5007/1808-1711.2019v23n3p367},
+  year = {2019},
+  month = dec,
+  publisher = {Universidade Federal de Santa Catarina ({UFSC})},
+  volume = {23},
+  number = {3},
+  pages = {367--372},
+  author = {Bruno Borge and Renato Cani},
+  title = {Laws of Nature: Metaphysics and Epistemology},
+  journal = {Principia: an international journal of epistemology}
+}
+
 @Book{Nagel2006,
   author    = {Nagel, Ernest},
   title     = {La Estructura de la Ciencia},
@@ -796,20 +817,19 @@ We distinguish dynamical and statistical interpretations of evolutionary theory.
 }
 
 @Article{Bhogal2020,
-  author        = {Bhogal, Harjit},
-  title         = {Humeanism about laws of nature},
-  journal       = {Philosophy Compass},
-  year          = {2020},
-  volume        = {15},
-  number        = {8},
-  month         = aug,
-  pages         = {e12696},
-  issn          = {1747-9991},
-  url           = {https://doi.org/10.1111/phc3.12696},
-  __markedentry = {[Oiuhukt:]},
-  abstract      = {Abstract Humeanism about laws of nature is, roughly, the view that the laws of nature are just patterns, or ways of describing patterns, in the mosaic of events. In this paper, I survey some of the (many!) objections that have been raised to Humeanism, considering how the Humean might respond. And I consider how we might make a positive case for Humeanism. The common thread running through all this is that the viability of the Humean view relies on the Humean having an importantly different conception of explanation to the anti-Humean.},
-  comment       = {https://doi.org/10.1111/phc3.12696},
-  publisher     = {John Wiley \& Sons, Ltd},
+  author    = {Bhogal, Harjit},
+  title     = {Humeanism about laws of nature},
+  journal   = {Philosophy Compass},
+  year      = {2020},
+  volume    = {15},
+  number    = {8},
+  month     = aug,
+  pages     = {e12696},
+  issn      = {1747-9991},
+  url       = {https://doi.org/10.1111/phc3.12696},
+  abstract  = {Abstract Humeanism about laws of nature is, roughly, the view that the laws of nature are just patterns, or ways of describing patterns, in the mosaic of events. In this paper, I survey some of the (many!) objections that have been raised to Humeanism, considering how the Humean might respond. And I consider how we might make a positive case for Humeanism. The common thread running through all this is that the viability of the Humean view relies on the Humean having an importantly different conception of explanation to the anti-Humean.},
+  comment   = {https://doi.org/10.1111/phc3.12696},
+  publisher = {John Wiley \& Sons, Ltd},
 }
 
 @InBook{French2021,
@@ -820,6 +840,14 @@ We distinguish dynamical and statistical interpretations of evolutionary theory.
   editor        = {Otávio Bueno and Scott Shalkowski},
   publisher     = {Routledge},
   isbn          = {9781138823310},
+  __markedentry = {[Oiuhukt:]},
+}
+
+@Book{Illari2014,
+  author        = {Illari, Phyllis and Russo, Federica},
+  title         = {Causality: Philosophical theory meets scientific practice},
+  year          = {2014},
+  publisher     = {Oxford University Press},
   __markedentry = {[Oiuhukt:6]},
 }
 
