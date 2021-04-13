@@ -115,13 +115,13 @@
 
 @InBook{Kitcher2002,
   author    = {Phillip Kitcher},
-  booktitle = {Philosophy of Science: Contemporary Readings},
   title     = {Explanatory Unification and the Causal Structure of the World},
-  editor    = {Yuri Balashov; Alex Rosenberg},
+  booktitle = {Philosophy of Science: Contemporary Readings},
+  year      = {2002},
+  editor    = {Yuri Balashov and Alex Rosenberg},
+  publisher = {Routledge},
   location  = {London},
   pages     = {71-91},
-  publisher = {Routledge},
-  year      = {2002},
 }
 
 @Article{Stolberg2006,
@@ -302,18 +302,17 @@
 	url       = {http://hdl.handle.net/2027/spo.did2222.0000.021},
 }
 
-@Inbook{Duhem1976,
-	author="Duhem, Pierre",
-	editor="Harding, Sandra G.",
-	title="Physical Theory and Experiment",
-	bookTitle="Can Theories be Refuted? Essays on the Duhem-Quine Thesis",
-	year="1976",
-	publisher="Springer Netherlands",
-	address="Dordrecht",
-	pages="1--40",
-	abstract="The sole purpose of physical theory is to provide a representation and classification of experimental laws; the only test permitting us to judge a physical theory and pronounce it good or bad is the comparison between the consequences of this theory and the experimental laws it has to represent and classify. Now that we have minutely analyzed the characteristics of a physical experiment and of a physical law, we can establish the principles that should govern the comparison between experiment and theory; we can tell how we shall recognize whether a theory is confirmed or weakened by facts.",
-	isbn="978-94-010-1863-0",
-	url="https://doi.org/10.1007/978-94-010-1863-0_1"
+@InBook{Duhem1976,
+  author    = {Duhem, Pierre},
+  title     = {Physical Theory and Experiment},
+  booktitle = {Can Theories be Refuted? Essays on the Duhem-Quine Thesis},
+  year      = {1976},
+  editor    = {Harding, Sandra G.},
+  publisher = {Springer Netherlands},
+  isbn      = {978-94-010-1863-0},
+  pages     = {1--40},
+  url       = {https://doi.org/10.1007/978-94-010-1863-0_1},
+  address   = {Dordrecht},
 }
 
 @Book{principia,
@@ -833,14 +832,13 @@ We distinguish dynamical and statistical interpretations of evolutionary theory.
 }
 
 @InBook{French2021,
-  author        = {Steven French},
-  title         = {Modality and scientific structuralism},
-  booktitle     = {The Routledge Handbook of Modality},
-  year          = {2021},
-  editor        = {Otávio Bueno and Scott Shalkowski},
-  publisher     = {Routledge},
-  isbn          = {9781138823310},
-  __markedentry = {[Oiuhukt:]},
+  author    = {Steven French},
+  title     = {Modality and scientific structuralism},
+  booktitle = {The Routledge Handbook of Modality},
+  year      = {2021},
+  editor    = {Otávio Bueno and Scott Shalkowski},
+  publisher = {Routledge},
+  isbn      = {9781138823310},
 }
 
 @Book{Illari2014,
@@ -848,7 +846,7 @@ We distinguish dynamical and statistical interpretations of evolutionary theory.
   title         = {Causality: Philosophical theory meets scientific practice},
   year          = {2014},
   publisher     = {Oxford University Press},
-  __markedentry = {[Oiuhukt:6]},
+  __markedentry = {[Oiuhukt:]},
 }
 
 @InCollection{Ayala2004,
@@ -858,6 +856,20 @@ We distinguish dynamical and statistical interpretations of evolutionary theory.
   year      = {2004},
   editor    = {William Dembski and Michael Ruse},
   publisher = {Cambridge University Press},
+}
+
+@Article{Lange2013,
+  author    = {Lange, Marc},
+  title     = {Really Statistical Explanations and Genetic Drift},
+  journal   = {Philosophy of Science},
+  year      = {2013},
+  volume    = {80},
+  number    = {2},
+  pages     = {169--188},
+  issn      = {0031-8248},
+  doi       = {10.1086/670323},
+  url       = {https://doi.org/10.1086/670323},
+  publisher = {The University of Chicago Press},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
