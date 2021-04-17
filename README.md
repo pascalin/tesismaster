@@ -1,16 +1,14 @@
+-----------------------------
+
 # tesismaster
 
-Este es el repositorio donde guardo el código de mi tesis de maestría. Para compilar el archivo en un pdf tomé el makefile creado por alejandrogallo. Pongo sus instrucciones originales abajo. 
+Este es el repositorio donde guardo el código de mi tesis de maestría. Para compilar el archivo en un pdf tomé el makefile creado por [alejandrogallo](https://github.com/alejandrogallo/latex-makefile/releases/latest). Pongo sus instrucciones originales abajo. También pueden ver el documento en [Papeeria](https://www.papeeria.com/join?token_id=d76b5624-5fd1-4757-a74d-47f63964aec1&retry=3)
 
-[![Build Status](https://travis-ci.org/alejandrogallo/latex-makefile.svg?branch=master)](https://travis-ci.org/alejandrogallo/latex-makefile)
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /> Este trabajo está bajo la licencia <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-### Note
 
-I'm not maintainig this project anymore.
-If you want a simpler solution check out
-[a simpler version of the same project](
-https://github.com/alejandrogallo/simple-latex-makefile
-)
+----------------------------------
+
 
 # The ultimate TeX Makefile #
 
@@ -67,7 +65,7 @@ variables for the project, like the verbosity `QUIET=1` and many more.
   * `VAR_NAME`(`DEFAULT`):  Brief description. If the default value is too long to appear it is
     omitted and a `see` is put in its place.  If there is no default value then
     the keyword `empty` appears.
-    
+
   * `SH`(`bash`): Shell used
   * `SHELL`(`see`): Alias for `SHELL'
   * `PY`(`python`): Python interpreter
@@ -98,7 +96,7 @@ variables for the project, like the verbosity `QUIET=1` and many more.
   * `DEBUG`(`empty`): If the commands issued should be printed write `DEBUG=1` if you want to see all commands.
   * `TPUT`(`see`): For coloring
   * `WITH_COLOR`(`1`): If messages should have color
-  * `DBG_FILE`(`.makefile-dbg`): 
+  * `DBG_FILE`(`.makefile-dbg`):
   * `COLOR_R`(`see`): Red
   * `COLOR_G`(`see`): Green
   * `COLOR_Y`(`see`): Yellow
@@ -106,9 +104,9 @@ variables for the project, like the verbosity `QUIET=1` and many more.
   * `COLOR_L`(`see`): Lila
   * `COLOR_LB`(`see`): Light blue
   * `COLOR_E`(`see`): Empty color
-  * `ARROW`(`@echo "see`): 
-  * `ARROW`(`@echo "===>"`): 
-  * `ECHO`(`@echo`): 
+  * `ARROW`(`@echo "see`):
+  * `ARROW`(`@echo "===>"`):
+  * `ECHO`(`@echo`):
   * `MAIN_SRC`(`see`): Main texfile in the current directory
   * `FMT`(`pdf`): Format to build to
   * `VIEW`(`1`): If `BUILD_DOCUMENT` should be previewed after building
@@ -123,8 +121,8 @@ variables for the project, like the verbosity `QUIET=1` and many more.
   * `PACKAGES_FILES`(`see`): Which files are tex libraries
   * `DEFAULT_DEPENDENCIES`(`\`): Default dependencies for `BUILD_DOCUMENT`
   * `DEPENDENCIES`(`see`): General dependencies for `BUILD_DOCUMENT`
-  * `TOC_DEP`(`see`): These files  are to keep  track of the  dependencies for latex  or pdf includes, table of contents generation or figure recognition 
-  * `FIGS_DEP`(`see`): 
+  * `TOC_DEP`(`see`): These files  are to keep  track of the  dependencies for latex  or pdf includes, table of contents generation or figure recognition
+  * `FIGS_DEP`(`see`):
   * `DEPS_DIR`(`.deps`): Folder to keep makefile dependencies
   * `FIGURES`(`empty`): Figures included in all texfiles
   * `BIBTEX`(`bibtex`): For converting document formats
@@ -132,20 +130,20 @@ variables for the project, like the verbosity `QUIET=1` and many more.
   * `GNUPLOT`(`gnuplot`): Gnuplot interpreter
   * `PDF_VIEWER`(`see`): Recognise pdf viewer automagically
   * `RM`(`rm`): Remove command
-  * `RM_FLAGS`(`-rf`): 
+  * `RM_FLAGS`(`-rf`):
   * `CLEAN_FILES`(`see`): Files to be cleaned
   * `DIST_DIR`(`dist`): Distribution directory
   * `LATEXDIFF`(`latexdiff-git`): For creating differences in a repository
   * `DIFF`(`HEAD HEAD~1`): Commits to compute the difference from
-  * `DIFF_BUILD_DIR_MAIN`(`diffs`): 
-  * `DIFF_BUILD_DIR`(`see`): 
-  * `DIFF_SRC_NAME`(`diff.tex`): 
+  * `DIFF_BUILD_DIR_MAIN`(`diffs`):
+  * `DIFF_BUILD_DIR`(`see`):
+  * `DIFF_SRC_NAME`(`diff.tex`):
   * `SPELLER`(`aspell`): Speller program to use
   * `SPELL_DIR`(`.spell`): Directory to store spelling related information
   * `SPELL_LANG`(`en`): Language for the spelling program
   * `CHECK_SPELL`(`empty`): Wether or not spelling should be checked
   * `TEX_LINTER`(`chktex`): For checking tex syntax
-  * `MAKEFILE_UPDATE_URL`(`see`): 
+  * `MAKEFILE_UPDATE_URL`(`see`):
   * `CTAGS_OPTIONS`(`--language-force=latex -R *`): Options for ctags command
 
 
@@ -158,7 +156,7 @@ This generates a `bbl` file from a  `bib` file For documents without a `bib`
 file, this  will also be  targeted, bit  the '-' before  the `$(BIBTEX)`
 ensures that the whole building doesn't fail because of it
 
-```bash 
+```bash
 make $(BIBITEM_FILES)
 ```
 ### Force compilation ###
@@ -167,7 +165,7 @@ make $(BIBITEM_FILES)
 This makefile only compiles the TeX document if it is strictly necessary, so
 sometimes to force compilation this target comes in handy.
 
-```bash 
+```bash
 make force
 ```
 ### View document ###
@@ -175,7 +173,7 @@ make force
 
 Open and refresh pdf.
 
-```bash 
+```bash
 make view-pdf
 ```
 ### Open pdf viewer ###
@@ -183,7 +181,7 @@ make view-pdf
 
 Open a viewer if there is none open viewing `$(BUILD_DOCUMENT)`
 
-```bash 
+```bash
 make open-pdf
 ```
 ### Refresh mupdf ###
@@ -203,7 +201,7 @@ Main cleaning
 This does a main cleaning of the produced auxiliary files.  Before using it
 check which files are going to be cleaned up.
 
-```bash 
+```bash
 make clean
 ```
 ### Distribution ###
@@ -214,7 +212,7 @@ For example it will consider the files in the DEPENDENCIES variable, so make
 sure to update or add DEPENDENCIES to it in the config.mk per user
 configuration.
 
-```bash 
+```bash
 make dist
 ```
 ### Distribution clean ###
@@ -222,7 +220,7 @@ make dist
 
 Clean distribution files
 
-```bash 
+```bash
 make dist-clean
 ```
 ### Diff ###
@@ -240,7 +238,7 @@ HEAD. You can also provide a *commit hash*. The default value is `HEAD HEAD~1`.
 
 The target creates a distribution folder located in the variable
 `DIFF_BUILD_DIR`.
-```bash 
+```bash
 make diff
 ```
 ### Check spelling ###
@@ -261,7 +259,7 @@ CHECK_SPELL = 1
 ```
 otherwise do not set it.
 
-```bash 
+```bash
 make spelling
 ```
 ### Check syntax ###
@@ -270,7 +268,7 @@ make spelling
 It checks the syntax (lints) of all the tex sources using the program in the
 TEX_LINTER variable.
 
-```bash 
+```bash
 make lint
 ```
 ### Update the makefile from source ###
@@ -280,7 +278,7 @@ You can always get the  latest `Makefile` version using this target.  You may
 override the `MAKEFILE_UPDATE_URL` to  any path where you save your own
 personal makefile
 
-```bash 
+```bash
 make update
 ```
 ### Ctags generation for latex documents ###
@@ -289,7 +287,7 @@ make update
 Generate a tags  file so that you can navigate  through the tags using
 compatible editors such as emacs or (n)vi(m).
 
-```bash 
+```bash
 make tags
 ```
 ### Print a variable used by the Makefile ###
@@ -299,13 +297,13 @@ For debugging purposes it is useful to print out some variables that the
 makefile is using, for that just type `make print` and you will be prompted
 to insert the name of the variable that you want to know.
 
-```bash 
+```bash
 make FORCE
 ```
 ### Print quick help ###
 
 
 It prints a quick help in the terminal
-```bash 
+```bash
 make help
 ```

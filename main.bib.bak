@@ -1,5 +1,26 @@
 % Encoding: UTF-8
 
+@book{Hanson1958,
+	author = {Norwood Russell Hanson},
+	year = {1958},
+	title = {Patterns of Discovery: An Inquiry Into the Conceptual Foundations of Science},
+	publisher = {Cambridge University Press}
+}
+
+@article{Borge2019,
+  doi = {10.5007/1808-1711.2019v23n3p367},
+  url = {https://doi.org/10.5007/1808-1711.2019v23n3p367},
+  year = {2019},
+  month = dec,
+  publisher = {Universidade Federal de Santa Catarina ({UFSC})},
+  volume = {23},
+  number = {3},
+  pages = {367--372},
+  author = {Bruno Borge and Renato Cani},
+  title = {Laws of Nature: Metaphysics and Epistemology},
+  journal = {Principia: an international journal of epistemology}
+}
+
 @Book{Nagel2006,
   author    = {Nagel, Ernest},
   title     = {La Estructura de la Ciencia},
@@ -94,13 +115,13 @@
 
 @InBook{Kitcher2002,
   author    = {Phillip Kitcher},
-  booktitle = {Philosophy of Science: Contemporary Readings},
   title     = {Explanatory Unification and the Causal Structure of the World},
-  editor    = {Yuri Balashov; Alex Rosenberg},
+  booktitle = {Philosophy of Science: Contemporary Readings},
+  year      = {2002},
+  editor    = {Yuri Balashov and Alex Rosenberg},
+  publisher = {Routledge},
   location  = {London},
   pages     = {71-91},
-  publisher = {Routledge},
-  year      = {2002},
 }
 
 @Article{Stolberg2006,
@@ -281,18 +302,17 @@
 	url       = {http://hdl.handle.net/2027/spo.did2222.0000.021},
 }
 
-@Inbook{Duhem1976,
-	author="Duhem, Pierre",
-	editor="Harding, Sandra G.",
-	title="Physical Theory and Experiment",
-	bookTitle="Can Theories be Refuted? Essays on the Duhem-Quine Thesis",
-	year="1976",
-	publisher="Springer Netherlands",
-	address="Dordrecht",
-	pages="1--40",
-	abstract="The sole purpose of physical theory is to provide a representation and classification of experimental laws; the only test permitting us to judge a physical theory and pronounce it good or bad is the comparison between the consequences of this theory and the experimental laws it has to represent and classify. Now that we have minutely analyzed the characteristics of a physical experiment and of a physical law, we can establish the principles that should govern the comparison between experiment and theory; we can tell how we shall recognize whether a theory is confirmed or weakened by facts.",
-	isbn="978-94-010-1863-0",
-	url="https://doi.org/10.1007/978-94-010-1863-0_1"
+@InBook{Duhem1976,
+  author    = {Duhem, Pierre},
+  title     = {Physical Theory and Experiment},
+  booktitle = {Can Theories be Refuted? Essays on the Duhem-Quine Thesis},
+  year      = {1976},
+  editor    = {Harding, Sandra G.},
+  publisher = {Springer Netherlands},
+  isbn      = {978-94-010-1863-0},
+  pages     = {1--40},
+  url       = {https://doi.org/10.1007/978-94-010-1863-0_1},
+  address   = {Dordrecht},
 }
 
 @Book{principia,
@@ -320,7 +340,7 @@
 @InCollection{Steup2020,
   author    = {Steup, Matthias & Neta, Ram.},
   booktitle = {The Stanford Encyclopedia of Philosophy},
-  date      = {2020},
+  year      = {2020},
   title     = {Epistemology},
   url       = {https://plato.stanford.edu/archives/fall2020/entries/epistemology/},
 }
@@ -424,8 +444,6 @@
   language  = {eng},
   publisher = {Oxford University Press},
   pages     = {304},
-  url       = {https://oxford.universitypressscholarship.com/10.1093/oso/9780198733669.001.0001/oso-9780198733669},
-  abstract  = {Some of the chief goals of science are understanding, explanation, prediction, and application in new technologies. Only if the world has some significant degree of constancy in what follows from what can these activities be conducted with any purpose. But what is the source of such predictability and how does it operate? This is a question that goes beyond science itself and inevitably requires a philosophical approach. It is argued in such terms that causation is the main foundation upon which the possibility of science rests. But what methods should we adopt in order to identify causes in science? The choice of methods will inevitably reflect what one takes causation to be, making an accurate account of causation an even more pressing matter. The enquiry concerns the correct norms for the empirical study of the world. This matters a lot. Some of the greatest challenges that we face will only be solved if we understand what has caused the problem and what, if anything, could then cause its alleviation.},
   address   = {Oxford},
   issn      = {9780198733669},
   keywords  = {science, causation, methods, norms, philosophy, prediction},
@@ -573,11 +591,285 @@ doi = {10.1387/ijdb.052022ia}
   publisher    = {Springer Verlag},
 }
 
-@Comment{jabref-meta: databaseType:biblatex;}
-
-@Comment{jabref-meta: grouping:
-0 AllEntriesGroup:;
-1 StaticGroup:Marcados\;2\;1\;\;\;\;;
-2 StaticGroup:Abraham:6\;2\;1\;\;\;\;;
-2 StaticGroup:[Abraham:]\;2\;1\;\;\;\;;
+@Book{Giere2006,
+  author    = {Giere, Ronald N.},
+  year      = {2006},
+  title     = {Scientific Perspectivism},
+  publisher = {University of Chicago Press},
 }
+
+@Book{Euclid2008,
+  author    = {Euclid},
+  year      = {2008},
+  title     = {The elements},
+  editor    = {Richard Fitzpatrick},
+  isbn      = {9780615179841},
+  pagetotal = {548},
+  publisher = {Richard Fitzpatrick},
+  url       = {https://www.ebook.de/de/product/7216845/richard_fitzpatrick_euclid_s_elements.html},
+  ean       = {9780615179841},
+}
+
+@Book{Torrente2000,
+  author    = {Mario Gómez Torrente},
+  title     = {Forma y Modalidad: una introducción al concepto de consecuencia lógica.},
+  isbn      = {950231087X},
+  publisher = {Eudeba},
+  address   = {Buenos Aires},
+  year      = {2000},
+}
+
+@InCollection{Tarski1956,
+  author    = {Alfred Tarski},
+  booktitle = {Logic, Semantics, Metamathemathics},
+  title     = {On the concept of logical consequence},
+  publisher = {Oxford University Press},
+  subtitle  = {Papers from 1923 to 1938},
+  year      = {1956},
+}
+
+@BookInBook{Archimedes1897,
+  author    = {Archimedes},
+  booktitle = {The works of Archimedes},
+  title     = {On the equilibrium of planes book I},
+  editor    = {Thomas Heath},
+  publisher = {Cambridge University Peess},
+  year      = {1897},
+}
+
+@Article{Mayr1961,
+  author  = {Mayr, Ernst},
+  title   = {Cause and Effect in Biology},
+  journal = {Science},
+  year    = {1961},
+  volume  = {134},
+  number  = {3489},
+  month   = nov,
+  pages   = {1501},
+  doi     = {10.1126/science.134.3489.1501},
+  url     = {http://science.sciencemag.org/content/134/3489/1501.abstract},
+}
+
+@InCollection{Dayan2020,
+  author    = {Dayan, David and Graham, Melissa and Baker, John and Foster, Susan},
+  title     = {Incorporating the enviromentally sensitive phenotype into evolving thinking},
+  booktitle = {Evolutionary Causation},
+  year      = {2020},
+  publisher = {MIT Press},
+}
+
+@Article{Laland2011,
+  author    = {Laland, Kevin N. and Sterelny, Kim and Odling-Smee, John and Hoppitt, William and Uller, Tobias},
+  title     = {Cause and Effect in Biology Revisited: Is Mayr{\textquoteright}s Proximate-Ultimate Dichotomy Still Useful?},
+  journal   = {Science},
+  year      = {2011},
+  volume    = {334},
+  number    = {6062},
+  pages     = {1512--1516},
+  issn      = {0036-8075},
+  doi       = {10.1126/science.1210879},
+  eprint    = {https://science.sciencemag.org/content/334/6062/1512.full.pdf},
+  url       = {https://science.sciencemag.org/content/334/6062/1512},
+  abstract  = {Fifty years ago, Ernst Mayr published a hugely influential paper on the nature of causation in biology, in which he distinguished between proximate and ultimate causes. Mayr equated proximate causation with immediate factors (for example, physiology) and ultimate causation with evolutionary explanations (for example, natural selection). He argued that proximate and ultimate causes addressed different questions and were not alternatives. Mayr{\textquoteright}s account of causation remains widely accepted today, with both positive and negative ramifications. Several current debates in biology (for example, over evolution and development, niche construction, cooperation, and the evolution of language) are linked by a common axis of acceptance/rejection of Mayr{\textquoteright}s model of causation. We argue that Mayr{\textquoteright}s formulation has acted to stabilize the dominant evolutionary paradigm against change but may now hamper progress in the biological sciences.},
+  publisher = {American Association for the Advancement of Science},
+}
+
+@Book{Uller2020,
+  author = {Tobias Uller and Kevin Laland},
+  title  = {Evolutionary Causation: Biological and Philosophical Reflections},
+  year   = {2020},
+}
+
+@Article{Brandon1997,
+  author    = {Robert N. Brandon},
+  title     = {Does Biology Have Laws? The Experimental Evidence},
+  journal   = {Philosophy of Science},
+  year      = {1997},
+  volume    = {64},
+  number    = {4},
+  pages     = {457},
+  doi       = {10.1086/392621},
+  publisher = {The University of Chicago Press on Behalf of the Philosophy of Science Association},
+}
+
+@Article{Rosenberg1983,
+  author    = {Alexander Rosenberg},
+  title     = {Fitness},
+  journal   = {Journal of Philosophy},
+  year      = {1983},
+  volume    = {80},
+  number    = {8},
+  pages     = {457--473},
+  doi       = {10.2307/2026163},
+  publisher = {Journal of Philosophy Inc},
+}
+
+@InBook{Sober2001,
+  author    = {Sober, Elliot},
+  title     = {The two faces of fitness},
+  booktitle = {Thinking about Evolution: Historical, Philosophical, and Political Perspectives},
+  year      = {2001},
+  editor    = {Singh, R.S. and Krimbas, C.B. and Shankar, R. and Lewontin, R.C. and Paul, D.B. and Beatty, J.},
+  series    = {Thinking about Evolution: Historical, Philosophical, and Political Perspectives},
+  number    = {v. 2},
+  publisher = {Cambridge University Press},
+  isbn      = {9780521620703},
+  lccn      = {00037822},
+}
+
+@Article{Bouchard2004,
+  author    = {Bouchard, Frederic and Rosenberg, Alexander},
+  title     = {Fitness, probability and the principles of natural selection},
+  journal   = {British Journal for the Philosophy of Science},
+  year      = {2004},
+  volume    = {55},
+  number    = {4},
+  publisher = {Oxford University Press},
+}
+
+@Article{Millstein2006,
+  author  = {Millstein, Roberta L.},
+  title   = {Natural selection as a population-level causal process},
+  journal = {British Journal for the Philosophy of Science},
+  year    = {2006},
+  volume  = {57},
+  number  = {4},
+}
+
+@InCollection{Sultan2020,
+  author    = {Sonia Sultan},
+  title     = {Genotype-Enviroment Interaction and the Unscripted Reaction Norm},
+  booktitle = {Evolutionary CAusation},
+  year      = {2020},
+}
+
+@Article{Amarillo-Suarez2006,
+  author   = {Amarillo-Suárez, Angela R. and Fox, Charles W.},
+  title    = {Population differences in host use by a seed-beetle: local adaptation, phenotypic plasticity and maternal effects},
+  journal  = {Oecologia},
+  year     = {2006},
+  volume   = {150},
+  number   = {2},
+  month    = nov,
+  pages    = {247--258},
+  issn     = {1432-1939},
+  url      = {https://doi.org/10.1007/s00442-006-0516-y},
+  abstract = {For insects that develop inside discrete hosts, both host size and host quality constrain offspring growth, influencing the evolution of body size and life history traits. Using a two-generation common garden experiment, we quantified the contribution of maternal and rearing hosts to differences in growth and life history traits between populations of the seed-feeding beetle Stator limbatus that use a large-seeded host, Acacia greggii, and a small-seeded host, Pseudosamanea guachapele. Populations differed genetically for all traits when beetles were raised in a common garden. Contrary to expectations from the local adaptation hypothesis, beetles from all populations were larger, developed faster and had higher survivorship when reared on seeds of A. greggii (the larger host), irrespective of their native host. We observed two host plant-mediated maternal effects: offspring matured sooner, regardless of their rearing host, when their mothers were reared on P. guachapele (this was not caused by an effect of rearing host on egg size), and females laid larger eggs on P. guachapele. This is the first study to document plasticity by S. limbatus in response to P. guachapele, suggesting that plasticity is an ancestral trait in S. limbatus that likely plays an important role in diet expansion. Although differences between populations in growth and life history traits are likely adaptations to their host plants, host-associated maternal effects, partly mediated by maternal egg size plasticity, influence growth and life history traits and likely play an important role in the evolution of the breadth of S. limbatus’ diet. More generally, phenotypic plasticity mediates the fitness consequences of using novel hosts, likely facilitating colonization of new hosts, but also buffering herbivores from selection post-colonization. Plasticity in response to novel versus normal hosts varied among our study populations such that disentangling the historical role of plasticity in mediating diet evolution requires the consideration of evolutionary history.},
+  refid    = {Amarillo-Suárez2006},
+}
+
+@Article{Walsh2002,
+  author    = {Walsh, Denis  and Lewins, Tim  and Ariew, André},
+  title     = {The Trials of Life: Natural Selection and Random Drift},
+  journal   = {Philosophy of Science},
+  year      = {2002},
+  volume    = {69},
+  number    = {3},
+  month     = sep,
+  pages     = {429--446},
+  issn      = {0031-8248},
+  doi       = {10.1086/342454},
+  url       = {https://doi.org/10.1086/342454},
+  abstract  = {We distinguish dynamical and statistical interpretations of evolutionary theory. We argue that only the statistical interpretation preserves the presumed relation between natural selection and drift. On these grounds we claim that the dynamical conception of evolutionary theory as a theory of forces is mistaken. Selection and drift are not forces. Nor do selection and drift explanations appeal to the (sub?population?level) causes of population level change. Instead they explain by appeal to the statistical structure of populations. We briefly discuss the implications of the statistical interpretation of selection for various debates within the philosophy of biology?the ?explananda of selection? debate and the ?units of selection? debate.
+We distinguish dynamical and statistical interpretations of evolutionary theory. We argue that only the statistical interpretation preserves the presumed relation between natural selection and drift. On these grounds we claim that the dynamical conception of evolutionary theory as a theory of forces is mistaken. Selection and drift are not forces. Nor do selection and drift explanations appeal to the (sub?population?level) causes of population level change. Instead they explain by appeal to the statistical structure of populations. We briefly discuss the implications of the statistical interpretation of selection for various debates within the philosophy of biology?the ?explananda of selection? debate and the ?units of selection? debate.},
+  comment   = {doi: 10.1086/342454},
+  publisher = {The University of Chicago Press},
+}
+
+@Book{Jablonka2020,
+  author    = {Eva Jablonka and Marion Lamb},
+  title     = {Inheritance Systems and the Extenden Evolutionary Synthesis},
+  year      = {2020},
+  publisher = {Cambridge University Press},
+  isbn      = {9781108685412},
+  doi       = {https://doi.org/10.1017/9781108685412},
+}
+
+@Book{Godfrey-Smith2013,
+  author    = {Godfrey-Smith, Peter},
+  title     = {Philosophy of Biology},
+  year      = {2013},
+  publisher = {Princeton University Press},
+}
+
+@Article{MacColl2011,
+  author   = {MacColl, Andrew D. C.},
+  title    = {The ecological causes of evolution},
+  journal  = {Trends in Ecology \& Evolution},
+  year     = {2011},
+  volume   = {26},
+  number   = {10},
+  month    = oct,
+  pages    = {514--522},
+  issn     = {0169-5347},
+  url      = {https://www.sciencedirect.com/science/article/pii/S0169534711001753},
+  abstract = {Natural selection is the process that results in adaptive evolution, but it is not the cause of evolution. The cause of natural selection and, therefore, of adaptive evolution, is any environmental factor (agent of selection) that results in differential fitness among phenotypes. Surprisingly little is known about selective agents, how they interact or their relative importance across taxa. Here, I outline three approaches for their investigation: functional analysis, correlational analysis and experimental manipulation. By refocusing attention on the structure and consequences of ecological variation, a better characterisation of selective agents would improve understanding of natural selection and evolution, including adaptive radiation, coevolution, the niche, the evolutionary ecology of the ranges of species and their response to environmental change.},
+}
+
+@Article{Glymour2011,
+  author  = {Glymour, Bruce},
+  title   = {Modeling Environments: Interactive Causation and Adaptations to Environmental Conditions},
+  journal = {Philosophy of Science},
+  year    = {2011},
+  volume  = {78},
+  number  = {3},
+}
+
+@Article{Bhogal2020,
+  author    = {Bhogal, Harjit},
+  title     = {Humeanism about laws of nature},
+  journal   = {Philosophy Compass},
+  year      = {2020},
+  volume    = {15},
+  number    = {8},
+  month     = aug,
+  pages     = {e12696},
+  issn      = {1747-9991},
+  url       = {https://doi.org/10.1111/phc3.12696},
+  abstract  = {Abstract Humeanism about laws of nature is, roughly, the view that the laws of nature are just patterns, or ways of describing patterns, in the mosaic of events. In this paper, I survey some of the (many!) objections that have been raised to Humeanism, considering how the Humean might respond. And I consider how we might make a positive case for Humeanism. The common thread running through all this is that the viability of the Humean view relies on the Humean having an importantly different conception of explanation to the anti-Humean.},
+  comment   = {https://doi.org/10.1111/phc3.12696},
+  publisher = {John Wiley \& Sons, Ltd},
+}
+
+@InBook{French2021,
+  author    = {Steven French},
+  title     = {Modality and scientific structuralism},
+  booktitle = {The Routledge Handbook of Modality},
+  year      = {2021},
+  editor    = {Otávio Bueno and Scott Shalkowski},
+  publisher = {Routledge},
+  isbn      = {9781138823310},
+}
+
+@Book{Illari2014,
+  author        = {Illari, Phyllis and Russo, Federica},
+  title         = {Causality: Philosophical theory meets scientific practice},
+  year          = {2014},
+  publisher     = {Oxford University Press},
+  __markedentry = {[Oiuhukt:]},
+}
+
+@InCollection{Ayala2004,
+  author    = {Francisco Ayala},
+  title     = {Design without designer},
+  booktitle = {Debating Design: From Darwin to Dna},
+  year      = {2004},
+  editor    = {William Dembski and Michael Ruse},
+  publisher = {Cambridge University Press},
+}
+
+@Article{Lange2013,
+  author    = {Lange, Marc},
+  title     = {Really Statistical Explanations and Genetic Drift},
+  journal   = {Philosophy of Science},
+  year      = {2013},
+  volume    = {80},
+  number    = {2},
+  pages     = {169--188},
+  issn      = {0031-8248},
+  doi       = {10.1086/670323},
+  url       = {https://doi.org/10.1086/670323},
+  publisher = {The University of Chicago Press},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}
