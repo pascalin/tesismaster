@@ -842,11 +842,10 @@ We distinguish dynamical and statistical interpretations of evolutionary theory.
 }
 
 @Book{Illari2014,
-  author        = {Illari, Phyllis and Russo, Federica},
-  title         = {Causality: Philosophical theory meets scientific practice},
-  year          = {2014},
-  publisher     = {Oxford University Press},
-  __markedentry = {[Oiuhukt:]},
+  author    = {Illari, Phyllis and Russo, Federica},
+  title     = {Causality: Philosophical theory meets scientific practice},
+  year      = {2014},
+  publisher = {Oxford University Press},
 }
 
 @InCollection{Ayala2004,
@@ -870,6 +869,43 @@ We distinguish dynamical and statistical interpretations of evolutionary theory.
   doi       = {10.1086/670323},
   url       = {https://doi.org/10.1086/670323},
   publisher = {The University of Chicago Press},
+}
+
+@InCollection{sep-fitness,
+  author       = {Rosenberg, Alexander and Bouchard, Frederic},
+  title        = {{Fitness}},
+  booktitle    = {The {Stanford} Encyclopedia of Philosophy},
+  year         = {2020},
+  editor       = {Edward N. Zalta},
+  edition      = {Spring 2020},
+  publisher    = {Metaphysics Research Lab, Stanford University},
+  howpublished = {\url{https://plato.stanford.edu/archives/spr2020/entries/fitness/}},
+}
+
+@Article{Bateson2014,
+  author        = {Bateson, Patrick},
+  title         = {New thinking about biological evolution},
+  journal       = {Biol J Linn Soc},
+  year          = {2014},
+  volume        = {112},
+  number        = {2},
+  month         = jun,
+  pages         = {268--275},
+  issn          = {0024-4066},
+  url           = {https://doi.org/10.1111/bij.12125},
+  __markedentry = {[Oiuhukt:]},
+  abstract      = {The article focuses on the active role of the organism in the subsequent evolution of its descendants. Choice, control of the environment, adaptability, and mobility all play their part. This growth area in biology and other active centres of research on epigenetics and different forms of inheritance are re-invigorating evolutionary biology. Many evolutionary biologists have taken the view that an understanding of development is irrelevant to theories of evolution. However, the integration of several disciplines now suggests that the orthodoxy is misplaced. © 2013 The Linnean Society of London, Biological Journal of the Linnean Society, 2014, 112, 268-275.},
+}
+
+@Book{Endler1986,
+  author        = {Endler, J. A. and May, R. M.},
+  title         = {Natural Selection in the Wild},
+  year          = {1986},
+  series        = {Monographs in Population Biology},
+  publisher     = {Princeton University Press},
+  url           = {https://books.google.com.mx/books?id=MYk1XbelDssC},
+  __markedentry = {[Oiuhukt:6]},
+  issn          = {9780691083872},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
