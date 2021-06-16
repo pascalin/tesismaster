@@ -897,14 +897,13 @@ We distinguish dynamical and statistical interpretations of evolutionary theory.
 }
 
 @Book{Endler1986,
-  author        = {Endler, J. A. and May, R. M.},
-  title         = {Natural Selection in the Wild},
-  year          = {1986},
-  series        = {Monographs in Population Biology},
-  publisher     = {Princeton University Press},
-  url           = {https://books.google.com.mx/books?id=MYk1XbelDssC},
-  __markedentry = {[Oiuhukt:]},
-  issn          = {9780691083872},
+  author    = {Endler, J. A. and May, R. M.},
+  title     = {Natural Selection in the Wild},
+  year      = {1986},
+  series    = {Monographs in Population Biology},
+  publisher = {Princeton University Press},
+  url       = {https://books.google.com.mx/books?id=MYk1XbelDssC},
+  issn      = {9780691083872},
 }
 
 @InBook{BeattyJohn2002,
@@ -938,9 +937,28 @@ We distinguish dynamical and statistical interpretations of evolutionary theory.
   pages         = {207--225},
   issn          = {1572-8404},
   url           = {https://doi.org/10.1007/BF00142902},
-  __markedentry = {[Oiuhukt:6]},
+  __markedentry = {[Oiuhukt:]},
   abstract      = {Susan Mills and John Beatty proposed a propensity interpretation of fitness (1979) to show that Darwinian explanations are not circular, but they did not address the critics' chief complaint that the principle of the survival of the fittest is either tautological or untestable. I show that the propensity interpretation cannot rescue the principle from the critics' charges. The critics, however, incorrectly assume that there is nothing more to Darwin's theory than the survival of the fittest. While Darwinians all scoff at this assumption, they do not agree about what role, if any, this principle plays in Darwin's theory of natural selection. I argue that the principle has no place in Darwin's theory. His theory does include the idea that some organisms are fitter than others. But greater reproductive success is simply inferred from higher fitness. There is no reason to embody this inference in the form of a special principle of the survival of the fittest.},
   refid         = {Waters1986},
+}
+
+@Article{Mills1979,
+  author        = {Mills, Susan K. and Beatty, John H.},
+  title         = {The Propensity Interpretation of Fitness},
+  journal       = {Philosophy of Science},
+  year          = {1979},
+  volume        = {46},
+  number        = {2},
+  month         = jun,
+  pages         = {263--286},
+  issn          = {0031-8248},
+  doi           = {10.1086/288865},
+  url           = {https://doi.org/10.1086/288865},
+  __markedentry = {[Oiuhukt:6]},
+  abstract      = {The concept of "fitness" is a notion of central importance to evolutionary theory. Yet the interpretation of this concept and its role in explanations of evolutionary phenomena have remained obscure. We provide a propensity interpretation of fitness, which we argue captures the intended reference of this term as it is used by evolutionary theorists. Using the propensity interpretation of fitness, we provide a Hempelian reconstruction of explanations of evolutionary phenomena, and we show why charges of circularity which have been levelled against explanations in evolutionary theory are mistaken. Finally, we provide a definition of natural selection which follows from the propensity interpretation of fitness, and which handles all the types of selection discussed by biologists, thus improving on extant definitions.
+The concept of "fitness" is a notion of central importance to evolutionary theory. Yet the interpretation of this concept and its role in explanations of evolutionary phenomena have remained obscure. We provide a propensity interpretation of fitness, which we argue captures the intended reference of this term as it is used by evolutionary theorists. Using the propensity interpretation of fitness, we provide a Hempelian reconstruction of explanations of evolutionary phenomena, and we show why charges of circularity which have been levelled against explanations in evolutionary theory are mistaken. Finally, we provide a definition of natural selection which follows from the propensity interpretation of fitness, and which handles all the types of selection discussed by biologists, thus improving on extant definitions.},
+  comment       = {doi: 10.1086/288865},
+  publisher     = {The University of Chicago Press},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
