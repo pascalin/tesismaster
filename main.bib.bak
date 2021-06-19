@@ -883,18 +883,17 @@ We distinguish dynamical and statistical interpretations of evolutionary theory.
 }
 
 @Article{Bateson2014,
-  author        = {Bateson, Patrick},
-  title         = {New thinking about biological evolution},
-  journal       = {Biol J Linn Soc},
-  year          = {2014},
-  volume        = {112},
-  number        = {2},
-  month         = jun,
-  pages         = {268--275},
-  issn          = {0024-4066},
-  url           = {https://doi.org/10.1111/bij.12125},
-  __markedentry = {[Oiuhukt:]},
-  abstract      = {The article focuses on the active role of the organism in the subsequent evolution of its descendants. Choice, control of the environment, adaptability, and mobility all play their part. This growth area in biology and other active centres of research on epigenetics and different forms of inheritance are re-invigorating evolutionary biology. Many evolutionary biologists have taken the view that an understanding of development is irrelevant to theories of evolution. However, the integration of several disciplines now suggests that the orthodoxy is misplaced. © 2013 The Linnean Society of London, Biological Journal of the Linnean Society, 2014, 112, 268-275.},
+  author   = {Bateson, Patrick},
+  title    = {New thinking about biological evolution},
+  journal  = {Biol J Linn Soc},
+  year     = {2014},
+  volume   = {112},
+  number   = {2},
+  month    = jun,
+  pages    = {268--275},
+  issn     = {0024-4066},
+  url      = {https://doi.org/10.1111/bij.12125},
+  abstract = {The article focuses on the active role of the organism in the subsequent evolution of its descendants. Choice, control of the environment, adaptability, and mobility all play their part. This growth area in biology and other active centres of research on epigenetics and different forms of inheritance are re-invigorating evolutionary biology. Many evolutionary biologists have taken the view that an understanding of development is irrelevant to theories of evolution. However, the integration of several disciplines now suggests that the orthodoxy is misplaced. © 2013 The Linnean Society of London, Biological Journal of the Linnean Society, 2014, 112, 268-275.},
 }
 
 @Book{Endler1986,
@@ -904,8 +903,44 @@ We distinguish dynamical and statistical interpretations of evolutionary theory.
   series        = {Monographs in Population Biology},
   publisher     = {Princeton University Press},
   url           = {https://books.google.com.mx/books?id=MYk1XbelDssC},
-  __markedentry = {[Oiuhukt:6]},
+  __markedentry = {[Oiuhukt:]},
   issn          = {9780691083872},
+}
+
+@InBook{BeattyJohn2002,
+  author    = {John Beatty},
+  title     = {Fitness: Theoretical contexts},
+  booktitle = {Keywords in evolutionary biology},
+  year      = {1992},
+  editor    = {Evellyn Keller and Elisabeth Lloyd},
+  publisher = {Harvard University Press},
+  pages     = {115-119},
+}
+
+@InBook{Paul1992,
+  author    = {Diane Paul},
+  title     = {Fitness: historical perspectives},
+  booktitle = {Keywords in evolutionary biology},
+  year      = {1992},
+  editor    = {Evellyn Keller and Elisabeth Lloyd},
+  publisher = {Harvard University Press},
+  pages     = {115-119},
+}
+
+@Article{Waters1986,
+  author        = {Waters, C. Kenneth},
+  title         = {Natural selection without survival of the fittest},
+  journal       = {Biology and Philosophy},
+  year          = {1986},
+  volume        = {1},
+  number        = {2},
+  month         = jun,
+  pages         = {207--225},
+  issn          = {1572-8404},
+  url           = {https://doi.org/10.1007/BF00142902},
+  __markedentry = {[Oiuhukt:6]},
+  abstract      = {Susan Mills and John Beatty proposed a propensity interpretation of fitness (1979) to show that Darwinian explanations are not circular, but they did not address the critics' chief complaint that the principle of the survival of the fittest is either tautological or untestable. I show that the propensity interpretation cannot rescue the principle from the critics' charges. The critics, however, incorrectly assume that there is nothing more to Darwin's theory than the survival of the fittest. While Darwinians all scoff at this assumption, they do not agree about what role, if any, this principle plays in Darwin's theory of natural selection. I argue that the principle has no place in Darwin's theory. His theory does include the idea that some organisms are fitter than others. But greater reproductive success is simply inferred from higher fitness. There is no reason to embody this inference in the form of a special principle of the survival of the fittest.},
+  refid         = {Waters1986},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
