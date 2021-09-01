@@ -1,4 +1,58 @@
 % Encoding: UTF-8
+@book{Linnebo2017,
+	title = {Philosophy of Mathematics},
+	publisher = {Princeton, NJ: Princeton University Press},
+	author = {\O{}ystein Linnebo},
+	year = {2017}
+}
+
+
+@InCollection{rocaroyes,
+	author       = {Sonia Roca-Royes},
+	booktitle    = {Modal Epistemology After Rationalism},
+	publisher    = {Springer},
+	title        = {Similarity and Posibility: an epistemology of \textit{de re} Posibility for Concrete Entities},
+	year         = {2017},
+	edition      = {1},
+	editor       = {Bob Fischer and Felipe Leon},
+}
+
+
+@book{ruyant,
+   title =     {Modal Empiricism: Interpreting Science Without Scientific Realism},
+   author =    {Quentin Ruyant},
+   publisher = {Springer},
+   isbn =      {3030723488, 9783030723484},
+   year =      {2021},
+   series =    {Synthese Library, 440},
+   edition =   {},
+   volume =    {},
+}
+
+@Misc{pittphilsci4544,
+  author   = {Roberta L. Millstein},
+  title    = {Is the Evolutionary Process Deterministic or Indeterministic? An Argument for Agnosticism},
+  note     = {Presented at the Biennial Meeting of the Philosophy of Science Association Vancouver, Canada, November 2000},
+  url      = {http://philsci-archive.pitt.edu/4544/},
+  abstract = {Recently, philosophers of biology have debated the status of the evolutionary process: is it deterministic or indeterministic? I argue that there is insufficient reason to favor one side of the debate over the other, and that a more philosophically defensible position argues neither for the determinacy nor for the indeterminacy of the evolutionary process. In other words, I maintain that the appropriate stand to take towards the question of the determinism of the evolutionary process is agnosticism. I then suggest that an examination of the phenomenon of developmental noise might yield a solution to the problem.},
+  keywords = {determinism, indeterminism, evolution, probability},
+  year     = {2000},
+}
+
+@article{Graves1999,
+  doi = {10.1086/392680},
+  url = {https://doi.org/10.1086/392680},
+  year = {1999},
+  month = mar,
+  publisher = {University of Chicago Press},
+  volume = {66},
+  number = {1},
+  pages = {140--157},
+  author = {Leslie Graves and Barbara L. Horan and Alex Rosenberg},
+  title = {Is Indeterminism the Source of the Statistical Character of Evolutionary Theory?},
+  journal = {Philosophy of Science}
+}
+
 
 @book{Hanson1958,
 	author = {Norwood Russell Hanson},
@@ -942,37 +996,59 @@ We distinguish dynamical and statistical interpretations of evolutionary theory.
 }
 
 @Article{Mills1979,
-  author        = {Mills, Susan K. and Beatty, John H.},
-  title         = {The Propensity Interpretation of Fitness},
-  journal       = {Philosophy of Science},
-  year          = {1979},
-  volume        = {46},
-  number        = {2},
-  month         = jun,
-  pages         = {263--286},
-  issn          = {0031-8248},
-  doi           = {10.1086/288865},
-  url           = {https://doi.org/10.1086/288865},
-  __markedentry = {[Oiuhukt:]},
-  abstract      = {The concept of "fitness" is a notion of central importance to evolutionary theory. Yet the interpretation of this concept and its role in explanations of evolutionary phenomena have remained obscure. We provide a propensity interpretation of fitness, which we argue captures the intended reference of this term as it is used by evolutionary theorists. Using the propensity interpretation of fitness, we provide a Hempelian reconstruction of explanations of evolutionary phenomena, and we show why charges of circularity which have been levelled against explanations in evolutionary theory are mistaken. Finally, we provide a definition of natural selection which follows from the propensity interpretation of fitness, and which handles all the types of selection discussed by biologists, thus improving on extant definitions.
+  author    = {Mills, Susan K. and Beatty, John H.},
+  title     = {The Propensity Interpretation of Fitness},
+  doi       = {10.1086/288865},
+  issn      = {0031-8248},
+  number    = {2},
+  pages     = {263--286},
+  url       = {https://doi.org/10.1086/288865},
+  volume    = {46},
+  abstract  = {The concept of "fitness" is a notion of central importance to evolutionary theory. Yet the interpretation of this concept and its role in explanations of evolutionary phenomena have remained obscure. We provide a propensity interpretation of fitness, which we argue captures the intended reference of this term as it is used by evolutionary theorists. Using the propensity interpretation of fitness, we provide a Hempelian reconstruction of explanations of evolutionary phenomena, and we show why charges of circularity which have been levelled against explanations in evolutionary theory are mistaken. Finally, we provide a definition of natural selection which follows from the propensity interpretation of fitness, and which handles all the types of selection discussed by biologists, thus improving on extant definitions.
 The concept of "fitness" is a notion of central importance to evolutionary theory. Yet the interpretation of this concept and its role in explanations of evolutionary phenomena have remained obscure. We provide a propensity interpretation of fitness, which we argue captures the intended reference of this term as it is used by evolutionary theorists. Using the propensity interpretation of fitness, we provide a Hempelian reconstruction of explanations of evolutionary phenomena, and we show why charges of circularity which have been levelled against explanations in evolutionary theory are mistaken. Finally, we provide a definition of natural selection which follows from the propensity interpretation of fitness, and which handles all the types of selection discussed by biologists, thus improving on extant definitions.},
-  comment       = {doi: 10.1086/288865},
-  publisher     = {The University of Chicago Press},
+  comment   = {doi: 10.1086/288865},
+  groups    = {[Oiuhukt:]},
+  journal   = {Philosophy of Science},
+  month     = jun,
+  publisher = {The University of Chicago Press},
+  year      = {1979},
 }
 
 @Other{Suarez2021,
-  author        = {Suárez, Mauricio},
-  title         = {Philosophy of Probability and Statistical Modelling},
-  year          = {2021},
-  doi           = {10.1017/9781108985826},
-  url           = {https://www.cambridge.org/core/elements/philosophy-of-probability-and-statistical-modelling/C12D7946AE6E7224C08A0667DCB58A10},
-  __markedentry = {[Oiuhukt:6]},
-  abstract      = {This Element has two main aims. The first one (sections 1-7) is an historically informed review of the philosophy of probability. It describes recent historiography, lays out the distinction between subjective and objective notions, and concludes by applying the historical lessons to the main interpretations of probability. The second aim (sections 8-13) focuses entirely on objective probability, and advances a number of novel theses regarding its role in scientific practice. A distinction is drawn between traditional attempts to interpret chance, and a novel methodological study of its application. A radical form of pluralism is then introduced, advocating a tripartite distinction between propensities, probabilities and frequencies. Finally, a distinction is drawn between two different applications of chance in statistical modelling which, it is argued, vindicates the overall methodological approach. The ensuing conception of objective probability in practice is the 'complex nexus of chance'.},
-  address       = {Cambridge},
-  database      = {Cambridge Core},
-  issn          = {9781108984942},
-  publisher     = {Cambridge University Press},
-  series        = {Elements in the Philosophy of Science},
+  abstract  = {This Element has two main aims. The first one (sections 1-7) is an historically informed review of the philosophy of probability. It describes recent historiography, lays out the distinction between subjective and objective notions, and concludes by applying the historical lessons to the main interpretations of probability. The second aim (sections 8-13) focuses entirely on objective probability, and advances a number of novel theses regarding its role in scientific practice. A distinction is drawn between traditional attempts to interpret chance, and a novel methodological study of its application. A radical form of pluralism is then introduced, advocating a tripartite distinction between propensities, probabilities and frequencies. Finally, a distinction is drawn between two different applications of chance in statistical modelling which, it is argued, vindicates the overall methodological approach. The ensuing conception of objective probability in practice is the 'complex nexus of chance'.},
+  address   = {Cambridge},
+  author    = {Suárez, Mauricio},
+  database  = {Cambridge Core},
+  doi       = {10.1017/9781108985826},
+  groups    = {Oiuhukt:6},
+  issn      = {9781108984942},
+  publisher = {Cambridge University Press},
+  series    = {Elements in the Philosophy of Science},
+  title     = {Philosophy of Probability and Statistical Modelling},
+  url       = {https://www.cambridge.org/core/elements/philosophy-of-probability-and-statistical-modelling/C12D7946AE6E7224C08A0667DCB58A10},
+  year      = {2021},
+}
+
+@Article{Sinervo1996,
+  author       = {Sinervo, B. and Lively, C. M.},
+  date         = {1996},
+  journaltitle = {Nature},
+  title        = {The rock-paper-scissors game and the evolution of alternative male strategies},
+  doi          = {10.1038/380240a0},
+  issn         = {1476-4687},
+  number       = {6571},
+  pages        = {240--243},
+  url          = {https://doi.org/10.1038/380240a0},
+  volume       = {380},
+  abstract     = {MANY species exhibit colour polymorphisms associated with alternative male reproductive strategies, including territorial males and 'sneaker males' that behave and look like females1-3. The prevalence of multiple morphs is a challenge to evolutionary theory because a single strategy should prevail unless morphs have exactly equal fitness4,5 or a fitness advantage when rare6,7. We report here the application of an evolutionary stable strategy model to a three-morph mating system in the side-blotched lizard. Using parameter estimates from field data, the model predicted oscillations in morph frequency, and the frequencies of the three male morphs were found to oscillate over a six-year period in the field. The fitnesses of each morph relative to other morphs were non-transitive in that each morph could invade another morph when rare, but was itself invadable by another morph when common. Concordance between frequency-dependent selection and the among-year changes in morph fitnesses suggest that male interactions drive a dynamic 'rock-paper-scissors' game7.},
+  refid        = {Sinervo1996},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
+
+@Comment{jabref-meta: grouping:
+0 AllEntriesGroup:;
+1 StaticGroup:Markings\;2\;1\;\;\;\;;
+2 StaticGroup:Oiuhukt:6\;2\;1\;\;\;\;;
+2 StaticGroup:[Oiuhukt:]\;2\;1\;\;\;\;;
+}
